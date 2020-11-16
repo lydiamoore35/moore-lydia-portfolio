@@ -16,14 +16,15 @@ const Layout = ({children}) => {
     <body>
       <div class="Main">
         <div class="sidenav">
-          <a href="#">ABOUT</a>
+          <a href="#About">ABOUT</a>
           <a href="#">SKILLS</a>
           <a href="#">PROJECTS</a>
           <a href="#">CONTACT</a>
           <a href="#">RESUME</a>
       </div>
       <main>{children}</main>
-      <footer>
+      <footer class="Footer">
+        Copyright © 2020 created by Lydia Moore. All rights reserved.
       </footer>
       </div>
     </body>

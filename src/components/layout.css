@@ -1,4 +1,5 @@
 /* About section */
+
 .About {
   display: flex;
   flex-direction: column;
@@ -33,6 +34,16 @@
   align-content: center;
   padding-left: 50%;
 }
+
+/* Body  */
+
+.Footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2% 2% 2% 20%;
+}
+
 .Main, main, body {
   background-color: gray;
   height: 100%;
