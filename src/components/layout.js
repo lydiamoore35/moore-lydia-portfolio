@@ -14,7 +14,14 @@ import "./layout.css"
 const Layout = ({children}) => {
   return (
       <div>
-        <header>this is my header</header>
+        <div class="sidenav">
+          <a href="#">ABOUT</a>
+          <a href="#">SKILLS</a>
+          <a href="#">PROJECTS</a>
+          <a href="#">CONTACT</a>
+          <a href="#">RESUME</a>
+        </div>
+  
         <main>{children}</main>
         <footer>
         </footer>
