@@ -11,6 +11,7 @@ const IndexPage = () => (
     <>
       <link rel="preconnect" href="https://fonts.gstatic.com"></link>
       <link href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,200;1,600&display=swap" rel="stylesheet"></link>
+      <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
     </>
     <div class="About">
       <div class="Name">Lydia Moore</div>
@@ -22,9 +23,11 @@ const IndexPage = () => (
       <div class="AboutDetails">
         As a student in General Assembly’s Software Engineering Immersive course for full-stack development, I have embraced my keen attention to detail and goal completion determination to accomplish multiple projects to their fullest extent. I practice effective time allocation and maintain a detail-oriented workflow allowing me the necessary time to anticipate the needs of team members and instructors. I aspire to establish myself as a developer within a reputable and mission-driven company that will actively cultivate the strengths of its creators.
       </div>
+      <div class="Skills">
+  
+      </div>
     </div>
-    {/* <Link to="/page-2/">Go to page 2</Link> <br /> */}
-    {/* <Link to="/using-typescript/">Go to "Using TypeScript"</Link> */}
+    
   </Layout>
 )
 
