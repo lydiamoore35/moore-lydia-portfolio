@@ -13,19 +13,20 @@ import "./layout.css"
 
 const Layout = ({children}) => {
   return (
-      <div>
+    <body>
+      <div class="Main">
         <div class="sidenav">
           <a href="#">ABOUT</a>
           <a href="#">SKILLS</a>
           <a href="#">PROJECTS</a>
           <a href="#">CONTACT</a>
           <a href="#">RESUME</a>
-        </div>
-  
-        <main>{children}</main>
-        <footer>
-        </footer>
       </div>
+      <main>{children}</main>
+      <footer>
+      </footer>
+      </div>
+    </body>
   )
 }
 
