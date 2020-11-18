@@ -12,12 +12,24 @@
   margin: 2% 2% 2% 20%;
   color: white;
 }
-.Name {
-  font-size: 30px;
+.Lydia {
+  font-size: 40px;
   font-weight: 700;
   position: absolute;
   top: 8px;
-  left: 16px;
+  margin-top: 12%;
+  margin-right: 37%;
+  color: white;
+}
+
+.Moore {
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  top: 8px;
+  margin-top: 12%;
+  margin-right: 37%;
+  color: white;
 }
 
 .Title {
@@ -26,11 +38,6 @@
   align-self: center;
   padding: 2% 0 5% 10%;
   font-size: 20px;
-}
-.MeImage {
-  position: relative;
-  text-align: center;
-  color: white;
 }
 
 /* Body  */
