@@ -50,6 +50,10 @@
   flex-wrap: wrap;
   margin-left: 15%;
 }
+li {
+  height: 96px;
+  width: 96px;
+}
 
 .Footer {
   display: flex;
