@@ -30,6 +30,31 @@ const IndexPage = () => (
           <li>
             <img src="https://img.icons8.com/color/96/000000/stackoverflow.png"/>
           </li>
+          <li>
+            <img src="https://img.icons8.com/color/96/000000/css3.png"/>
+          </li>
+          <li>
+            <img src="https://img.icons8.com/color/96/000000/github--v1.png"/>
+          </li>
+          <li>
+            <img src="https://img.icons8.com/color/96/000000/heroku.png"/>
+          </li>
+          <li>
+            <img src="https://img.icons8.com/color/96/000000/visual-studio.png"/>
+          </li>
+          <li>
+            <img src="https://img.icons8.com/color/96/000000/nodejs.png"/>
+          </li>
+          <li>
+            <img src="https://img.icons8.com/color/96/000000/html-5.png"/>
+          </li>
+          <li>
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/96/000000/javascript.png"/></a>
+          </li>
+          <li>
+            <img src="https://img.icons8.com/color/96/000000/sql.png"/>
+          </li>
+          <li></li>
           <li></li>
         </ul>
       </div>

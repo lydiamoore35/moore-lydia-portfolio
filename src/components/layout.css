@@ -48,6 +48,7 @@
   justify-content: center;
   flex-direction: row;
   flex-wrap: wrap;
+  margin-left: 15%;
 }
 
 .Footer {
@@ -58,7 +59,7 @@
 }
 
 .Main, main, body {
-  background-color: gray;
+  background-color: lightgray;
   height: 100%;
 }
 
