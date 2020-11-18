@@ -23,7 +23,7 @@ const IndexPage = () => (
         As a student in General Assembly’s Software Engineering Immersive course for full-stack development, I have embraced my keen attention to detail and goal completion determination to accomplish multiple projects to their fullest extent. I practice effective time allocation and maintain a detail-oriented workflow allowing me the necessary time to anticipate the needs of team members and instructors. I aspire to establish myself as a developer within a reputable and mission-driven company that will actively cultivate the strengths of its creators.
       </div>
       <div class="Skills">
-      <div>Technical Skills</div>
+      <h3>TECHNICAL SKILLS</h3>
         <ul>
           <li>
             <img src="https://img.icons8.com/color/96/000000/ruby-programming-language.png" alt="icon"/>
@@ -50,46 +50,47 @@ const IndexPage = () => (
             <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="icon"/>
           </li>
           <li>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://p.kindpng.com/picc/s/476-4768341_javascript-logo-number-angularjs-node-javascript-transparent-background.png" alt="icon"/></a>
+            <img src="https://p.kindpng.com/picc/s/476-4768341_javascript-logo-number-angularjs-node-javascript-transparent-background.png" alt="icon" height="96px"/>
           </li>
           <li>
             <img src="https://img.icons8.com/color/96/000000/sql.png" alt="icon"/>
           </li>
           <li>
-            <img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" alt="express pic"/>
+            <img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" alt="icon" height="96px"/>
           </li>
           <li>
-            <img src="https://img.icons8.com/ios-filled/100/000000/jquery.png" alt="icon"/>
+            <img src="https://img.icons8.com/ios-filled/100/000000/jquery.png" alt="icon" height="96"/>
           </li>
           <li>
             <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="icon"/>
           </li>
           <li>
-            <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="icon"/>
+            <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="icon" height="96"/>
           </li>
           <li>
-            <img src="https://pbs.twimg.com/profile_images/687314343537569792/Hz7m5vRM_400x400.png" alt="icon"/>
+            <img src="https://pbs.twimg.com/profile_images/687314343537569792/Hz7m5vRM_400x400.png" alt="icon" height="96"/>
           </li>
           <li>
-            <img src="https://www.sketchappsources.com/resources/source-image/sketch-icon-41.png" atl="icon"/>
+            <img src="https://www.sketchappsources.com/resources/source-image/sketch-icon-41.png" atl="icon" height="96"/>
           </li>
           <li>
-            <img src="https://i.pinimg.com/280x280_RS/0f/b8/e6/0fb8e676a1cd0eae9b0f7ea862c40f93.jpg" alt="icon"/>
+            <img src="https://i.pinimg.com/280x280_RS/0f/b8/e6/0fb8e676a1cd0eae9b0f7ea862c40f93.jpg" alt="icon" height="96"/>
           </li>
           <li>
-            <img src="https://cdn.auth0.com/blog/build-a-secure-express-api-using-postman-and-auth0/postman-logo.png" alt ="icon"/>
+            <img src="https://cdn.auth0.com/blog/build-a-secure-express-api-using-postman-and-auth0/postman-logo.png" alt ="icon" height="96"/>
           </li>
           <li>
-            <img src="https://miro.medium.com/max/502/1*a8vazziKqAGfX1FGObH95Q.png" alt="icon"/>
+            <img src="https://miro.medium.com/max/502/1*a8vazziKqAGfX1FGObH95Q.png" alt="icon" height="96"/>
           </li>
           <li>
-            <img src="https://pbs.twimg.com/profile_images/1021778918842531840/FBVP_uDf.jpg" alt="icon"/>
+            <img src="https://pbs.twimg.com/profile_images/1021778918842531840/FBVP_uDf.jpg" alt="icon" height="96"/>
           </li>
           <li>
-            <img src="https://i.dlpng.com/static/png/432835_preview.png" alt="icon"/>
+            <img src="https://i.dlpng.com/static/png/432835_preview.png" alt="icon" height="96"/>
           </li>
         </ul>
       </div>
+      <h3>PROJECTS</h3>
       </div>
     
   </Layout>

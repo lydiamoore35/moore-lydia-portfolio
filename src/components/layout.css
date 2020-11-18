@@ -21,7 +21,6 @@
   margin-right: 37%;
   color: white;
 }
-
 .Moore {
   font-size: 40px;
   font-weight: 700;
@@ -31,7 +30,6 @@
   margin-right: 37%;
   color: white;
 }
-
 .Title {
   display: flex;
   flex-direction: column;
@@ -50,9 +48,13 @@
   flex-wrap: wrap;
   margin-left: 15%;
 }
-li {
-  height: 96px;
-  width: 96px;
+ul li {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: space-around;
+  margin-left: 20%;
 }
 
 .Footer {
@@ -67,6 +69,12 @@ li {
   height: 100%;
 }
 
+h3 {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+}
+
 /* Sidebar menu */
 
 .sidenav {
@@ -74,7 +82,7 @@ li {
   display: flex;
   flex-direction: column;
   height: 100%;
-  width: 160px; /* Set the width of the sidebar */
+  width: 160px;
   position: fixed; /* Fixed Sidebar (stay in place on scroll) */
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
@@ -112,14 +120,14 @@ li {
 
 /* Additional css from Gatsby */
 
-html {
+/* html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   font: 112.5%/1.45em georgia, serif, sans-serif;
   box-sizing: border-box;
   overflow-y: scroll;
-}
-body {
+} */
+/* body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -132,7 +140,7 @@ body {
   -ms-font-feature-settings: "kern", "liga", "clig", "calt";
   -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
   font-feature-settings: "kern", "liga", "clig", "calt";
-}
+} */
 /* article,
 aside,
 details,
@@ -147,7 +155,7 @@ section,
 summary {
   display: block;
 } */
-audio,
+/* audio,
 canvas,
 progress,
 video {
@@ -163,8 +171,8 @@ progress {
 [hidden],
 template {
   display: none;
-}
-a {
+} */
+/* a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
 }
@@ -708,4 +716,4 @@ pre tt:after {
   html {
     font-size: 100%;
   }
-}
+} */
