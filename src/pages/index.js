@@ -91,6 +91,11 @@ const IndexPage = () => (
         </ul>
       </div>
       <h3 class="h3">PROJECTS</h3>
+        <div></div>
+        <div></div>
+        <div class="Project_3">
+          <img src="https://i.imgur.com/yFYcW1H.png" alt="project_3_pic"/>
+        </div>
       </div>
     
   </Layout>

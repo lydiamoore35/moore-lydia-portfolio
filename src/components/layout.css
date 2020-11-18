@@ -54,6 +54,11 @@ ul li {
   margin: 3%;
   width: 20%;
 }
+.Project_3 img {
+  display: flex;
+  height: 500px;
+  margin: 2% 20% 2% 0;
+}
 
 .Footer {
   display: flex;
