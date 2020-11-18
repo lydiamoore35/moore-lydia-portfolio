@@ -23,8 +23,17 @@ const IndexPage = () => (
         As a student in General Assembly’s Software Engineering Immersive course for full-stack development, I have embraced my keen attention to detail and goal completion determination to accomplish multiple projects to their fullest extent. I practice effective time allocation and maintain a detail-oriented workflow allowing me the necessary time to anticipate the needs of team members and instructors. I aspire to establish myself as a developer within a reputable and mission-driven company that will actively cultivate the strengths of its creators.
       </div>
       <div class="Skills">
+        <ul>
+          <li>
+            <img src="https://img.icons8.com/color/96/000000/ruby-programming-language.png"/>
+          </li>
+          <li>
+            <img src="https://img.icons8.com/color/96/000000/stackoverflow.png"/>
+          </li>
+          <li></li>
+        </ul>
       </div>
-    </div>
+      </div>
     
   </Layout>
 )
