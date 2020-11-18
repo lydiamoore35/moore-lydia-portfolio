@@ -23,7 +23,7 @@ const IndexPage = () => (
         As a student in General Assembly’s Software Engineering Immersive course for full-stack development, I have embraced my keen attention to detail and goal completion determination to accomplish multiple projects to their fullest extent. I practice effective time allocation and maintain a detail-oriented workflow allowing me the necessary time to anticipate the needs of team members and instructors. I aspire to establish myself as a developer within a reputable and mission-driven company that will actively cultivate the strengths of its creators.
       </div>
       <div class="Skills">
-      <h3>TECHNICAL SKILLS</h3>
+      <h3 class="h3">TECHNICAL SKILLS</h3>
         <ul>
           <li>
             <img src="https://img.icons8.com/color/96/000000/ruby-programming-language.png" alt="icon"/>
@@ -56,7 +56,7 @@ const IndexPage = () => (
             <img src="https://img.icons8.com/color/96/000000/sql.png" alt="icon"/>
           </li>
           <li>
-            <img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" alt="icon" height="96px"/>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwYXjvK9xFgNCPeHeRlJcXQrOWOdtiAkEYzg&usqp=CAU" alt="icon" height="96px"/>
           </li>
           <li>
             <img src="https://img.icons8.com/ios-filled/100/000000/jquery.png" alt="icon" height="96"/>
@@ -90,7 +90,7 @@ const IndexPage = () => (
           </li>
         </ul>
       </div>
-      <h3>PROJECTS</h3>
+      <h3 class="h3">PROJECTS</h3>
       </div>
     
   </Layout>
