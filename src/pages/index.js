@@ -83,7 +83,7 @@ const IndexPage = () => (
             <img src="https://miro.medium.com/max/502/1*a8vazziKqAGfX1FGObH95Q.png" alt="icon" height="96"/>
           </li>
           <li>
-            <img src="https://pbs.twimg.com/profile_images/1021778918842531840/FBVP_uDf.jpg" alt="icon" height="96"/>
+            <img src="https://pbs.twimg.com/profile_images/1021778918842531840/FBVP_uDf.jpg" alt="Trello" height="96"/>
           </li>
           <li>
             <img src="https://i.dlpng.com/static/png/432835_preview.png" alt="icon" height="96"/>
