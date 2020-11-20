@@ -170,12 +170,13 @@ h3 {
 }
 .sidenav img {
   display:flex;
-  width: max-content;
+  width: min-content;
+  width: 25%;
   align-self: center;
   margin-top: 20%;
 }
 .git{
-  padding-top: 275%;
+  padding-top: 280%;
 }
 
 /* Style page content */
