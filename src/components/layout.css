@@ -115,7 +115,7 @@ ul li {
   margin: 2% 2% 2% 20%;
 }
 .Main, main, body {
-  background-color: darkgray;
+  background-color: lightgray;
   height: 100%;
 }
 .Projects {
@@ -123,7 +123,7 @@ ul li {
   text-decoration: underline overline;
 }
 .TechnicalSkills {
-  margin-left: 5%;
+  margin-left: 6%;
   text-decoration: underline overline;
 }
 h3 {
@@ -150,17 +150,24 @@ h3 {
   padding-top: 20px;
   opacity: .96;
 }
-
-/* Nav bar links */
 .sidenav a {
   padding: 6px 8px 20px 16px;
   text-decoration: none;
-  font-size: 25px;
+  font-size: 20px;
   color: black;
   display: block;
 }
 .sidenav a:hover {
   color: whitesmoke;
+}
+.sidenav img {
+  display:flex;
+  width: max-content;
+  align-self: center;
+  margin-top: 20%;
+}
+.git{
+  padding-top: 300%;
 }
 
 /* Style page content */
