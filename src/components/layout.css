@@ -10,7 +10,8 @@
   display: flex;
   flex-direction: column;
   margin: 2% 2% 2% 20%;
-  color: white;
+  color: black;
+  font-family: Helvetica,sans-serif
 }
 .Lydia {
   font-size: 40px;
@@ -19,7 +20,7 @@
   top: 8px;
   margin-top: 12%;
   margin-right: 37%;
-  color: white;
+  color: #f0efef;
 }
 .Moore {
   font-size: 40px;
@@ -28,7 +29,7 @@
   top: 8px;
   margin-top: 12%;
   margin-right: 37%;
-  color: white;
+  color: #f0efef;
 }
 .Title {
   display: flex;
@@ -45,7 +46,8 @@
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  margin-left: 10%;
+  margin-left: 6%;
+  justify-content: space-around;
 }
 ul li {
   display: flex;
@@ -56,6 +58,7 @@ ul li {
   box-shadow: 10px 10px 5px grey;
 }
 .Project_3 {
+  font-family: Helvetica,sans-serif;
   position: relative;
   width: 50%;
   margin-left: 30%;
@@ -79,35 +82,43 @@ ul li {
   text-align: center;
 }
 .Project_3:hover img {
-  opacity: .3;
+  opacity: .5;
 }
 .Project_3:hover .center {
+  font-family: Helvetica,sans-serif;
   opacity: 1;
 }
 .Project_3_text {
-  background-color: pink;
-  color: white;
+  background-color: #ffef96;
+  color: black;
   font-size: 16px;
   /* padding: 16px 35px; */
-  margin-top: 80%;
+  margin-top: 75%;
+  margin-left: 1.7%;
   padding: 5%;
   width: 380px;
+  border-radius: 2px;
+  box-shadow: 5px 5px 2.5px gray;
 }
 .Footer {
+  font-family: Helvetica,sans-serif;
   display: flex;
   flex-direction: column;
   align-items: center;
   margin: 2% 2% 2% 20%;
 }
-
 .Main, main, body {
-  background-color: lightgray;
+  background-color: #f0efef;
   height: 100%;
 }
-
-h3, .h3 {
+.Projects {
+  margin-left: 13%;
+}
+h3 {
+  font-family: Helvetica,sans-serif;
   display: flex;
-  margin: 0 40% 0 20%;
+  padding: 3%;
+  justify-content: center;
 }
 
 /* Sidebar menu */
@@ -122,9 +133,10 @@ h3, .h3 {
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
   left: 0;
-  background-color: darkblue;
+  background-color: #50394c;
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 20px;
+  opacity: .96;
 }
 
 /* Nav bar links */
@@ -132,15 +144,16 @@ h3, .h3 {
   padding: 6px 8px 20px 16px;
   text-decoration: none;
   font-size: 25px;
-  color: #818181;
+  color: #ffef96;
   display: block;
 }
 .sidenav a:hover {
-  color: white;
+  color: #f0efef;
 }
 
 /* Style page content */
 .main {
+  font-family: Helvetica,sans-serif;
   margin-left: 160px; /* Same as the width of the sidebar */
   padding: 0px 10px;
 }
