@@ -102,6 +102,8 @@ const IndexPage = () => (
             </div>
           </div>
         </div>
+        <h3 class="Contact">CONTACT ME</h3>
+        <h3 class="Resume">RESUME</h3>
     
   </Layout>
 )

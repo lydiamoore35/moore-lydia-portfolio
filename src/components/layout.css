@@ -128,6 +128,12 @@ ul li {
   text-decoration: underline overline;
   margin-top: 5%;
 }
+.Resume {
+  text-decoration: underline overline;
+}
+.Contact {
+  text-decoration: underline overline;
+}
 h3 {
   font-family: Helvetica,sans-serif;
   display: flex;
@@ -153,7 +159,7 @@ h3 {
   opacity: .96;
 }
 .sidenav a {
-  padding: 6px 8px 20px 16px;
+  padding: 10px 8px 24px 16px;
   text-decoration: none;
   font-size: 20px;
   color: black;
@@ -169,7 +175,7 @@ h3 {
   margin-top: 20%;
 }
 .git{
-  padding-top: 300%;
+  padding-top: 275%;
 }
 
 /* Style page content */
