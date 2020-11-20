@@ -90,13 +90,18 @@ const IndexPage = () => (
           </li>
         </ul>
       </div>
+    </div>
       <h3 class="h3">PROJECTS</h3>
         <div></div>
         <div></div>
         <div class="Project_3">
           <img src="https://i.imgur.com/yFYcW1H.png" alt="project_3_pic"/>
+          <div class="center">
+            <div class="Project_3_text">
+              Ubuntu: I am because we are<br></br>Ubuntu is an application that allows users to sign up and log in to thier account to create, view, update, and/or delete community projects in thier area.<br></br>Ubuntu includes front end and back end application through Heroku and Netlify.
+            </div>
+          </div>
         </div>
-      </div>
     
   </Layout>
 )
