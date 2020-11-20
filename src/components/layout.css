@@ -9,9 +9,15 @@
 .AboutDetails {
   display: flex;
   flex-direction: column;
-  margin: 2% 2% 2% 20%;
+  margin: 2% 3.5% 2% 20%;
   color: black;
-  font-family: Helvetica,sans-serif
+  font-family: Helvetica,sans-serif;
+  text-align: center;
+  padding: 3%;
+  background-color: whitesmoke;
+  border-radius: 2px;
+  text-align: justify;
+  box-shadow: 10px 10px 5px grey;
 }
 .Lydia {
   font-size: 40px;
@@ -20,7 +26,7 @@
   top: 8px;
   margin-top: 12%;
   margin-right: 37%;
-  color: #f0efef;
+  color: white;
 }
 .Moore {
   font-size: 40px;
@@ -29,7 +35,7 @@
   top: 8px;
   margin-top: 12%;
   margin-right: 37%;
-  color: #f0efef;
+  color: white;
 }
 .Title {
   display: flex;
@@ -46,10 +52,11 @@
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  margin-left: 6%;
+  margin-left: 6.2%;
   justify-content: space-around;
 }
 ul li {
+  background-color: whitesmoke;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -89,16 +96,16 @@ ul li {
   opacity: 1;
 }
 .Project_3_text {
-  background-color: #ffef96;
+  background-color: whitesmoke;
   color: black;
   font-size: 16px;
   /* padding: 16px 35px; */
   margin-top: 75%;
-  margin-left: 1.7%;
+  margin-left: 1.6%;
   padding: 5%;
   width: 380px;
   border-radius: 2px;
-  box-shadow: 5px 5px 2.5px gray;
+  box-shadow: 5px 5px 2.5px black;
 }
 .Footer {
   font-family: Helvetica,sans-serif;
@@ -108,11 +115,16 @@ ul li {
   margin: 2% 2% 2% 20%;
 }
 .Main, main, body {
-  background-color: #f0efef;
+  background-color: darkgray;
   height: 100%;
 }
 .Projects {
   margin-left: 13%;
+  text-decoration: underline overline;
+}
+.TechnicalSkills {
+  margin-left: 5%;
+  text-decoration: underline overline;
 }
 h3 {
   font-family: Helvetica,sans-serif;
@@ -133,7 +145,7 @@ h3 {
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
   left: 0;
-  background-color: #50394c;
+  background-color:#f18973;
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 20px;
   opacity: .96;
@@ -144,11 +156,11 @@ h3 {
   padding: 6px 8px 20px 16px;
   text-decoration: none;
   font-size: 25px;
-  color: #ffef96;
+  color: black;
   display: block;
 }
 .sidenav a:hover {
-  color: #f0efef;
+  color: whitesmoke;
 }
 
 /* Style page content */
