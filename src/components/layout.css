@@ -86,7 +86,7 @@ ul li {
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
-  text-align: center;
+  text-align: justify;
 }
 .Project_3:hover img {
   opacity: .5;
@@ -121,10 +121,12 @@ ul li {
 .Projects {
   margin-left: 13%;
   text-decoration: underline overline;
+  margin-bottom: 5%;
 }
 .TechnicalSkills {
   margin-left: 6%;
   text-decoration: underline overline;
+  margin-top: 5%;
 }
 h3 {
   font-family: Helvetica,sans-serif;
