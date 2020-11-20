@@ -85,10 +85,13 @@ ul li {
   opacity: 1;
 }
 .Project_3_text {
-  background-color: #4CAF50;
+  background-color: pink;
   color: white;
   font-size: 16px;
-  padding: 16px 32px;
+  /* padding: 16px 35px; */
+  margin-top: 80%;
+  padding: 5%;
+  width: 380px;
 }
 .Footer {
   display: flex;
