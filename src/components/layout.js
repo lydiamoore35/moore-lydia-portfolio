@@ -21,8 +21,8 @@ const Layout = ({children}) => {
           <a href="#">PROJECTS</a>
           <a href="#">CONTACT</a>
           <a href="#">RESUME</a>
-          <img class="git" src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="github"/>
-          <img src="https://img.icons8.com/metro/52/000000/linkedin.png" alt="linkedIn"/>
+          <img class="git" src="https://img.icons8.com/cute-clipart/64/000000/github.png" alt="github"/>
+          <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="linkedIn"/>
       </div>
       <main>{children}</main>
       <footer class="Footer">

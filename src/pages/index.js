@@ -14,10 +14,9 @@ const IndexPage = () => (
     </head>
     <div class="About">
         <div>
-          <img src="https://i.imgur.com/CzU5GJa.jpg?1" width="80%" alt="pic"></img>
-          <div class="Lydia">Lydia</div>
-          <div class="Moore">Moore</div>
-          <div class="Title">Full-Stack Software Engineer</div>
+          <div class="Name">Lydia<br></br>Moore</div>
+          <div class="Title"><u>Full-Stack<br></br>Software Engineer</u></div>
+          <img src="https://i.imgur.com/CzU5GJa.jpg?2" width="70%" alt="pic"></img>
         </div>
       <div class="AboutDetails">
         As a student in General Assembly’s Software Engineering Immersive course for full-stack development, I have embraced my keen attention to detail and goal completion determination to accomplish multiple projects to their fullest extent. I practice effective time allocation and maintain a detail-oriented workflow allowing me the necessary time to anticipate the needs of team members and instructors. I aspire to establish myself as a developer within a reputable and mission-driven company that will actively cultivate the strengths of its creators.
@@ -56,7 +55,7 @@ const IndexPage = () => (
             <img src="https://img.icons8.com/color/96/000000/sql.png" alt="icon"/>
           </li>
           <li>
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwYXjvK9xFgNCPeHeRlJcXQrOWOdtiAkEYzg&usqp=CAU" alt="icon" height="96px"/>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwYXjvK9xFgNCPeHeRlJcXQrOWOdtiAkEYzg&usqp=CAU" alt="express" height="96px" width="131"/>
           </li>
           <li>
             <img src="https://img.icons8.com/ios-filled/100/000000/jquery.png" alt="icon" height="96"/>

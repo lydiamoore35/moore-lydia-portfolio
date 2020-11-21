@@ -6,6 +6,10 @@
   align-items: flex-end;
   font-family: Helvetica,sans-serif
 }
+.About img {
+  display: flex;
+  margin: 5% 0% 5% 15%;
+}
 .AboutDetails {
   display: flex;
   flex-direction: column;
@@ -18,31 +22,24 @@
   border-radius: 2px;
   text-align: justify;
   box-shadow: 10px 10px 5px grey;
+  line-height: 1.5;
 }
-.Lydia {
+.Name {
   font-size: 40px;
-  font-weight: 700;
+  font-weight: 900;
   position: absolute;
-  top: 8px;
-  margin-top: 12%;
-  margin-right: 37%;
-  color: white;
-}
-.Moore {
-  font-size: 40px;
-  font-weight: 700;
-  position: absolute;
-  top: 8px;
-  margin-top: 12%;
-  margin-right: 37%;
+  top: 5.5%;
+  left: 32%;
   color: white;
 }
 .Title {
-  display: flex;
-  flex-direction: column;
-  align-self: center;
+  position: absolute;
+  top: 15%;
+  left: 22%;
   padding: 2% 0 5% 10%;
   font-size: 20px;
+  color: white;
+  font-weight: 600;
 }
 
 /* Body  */
@@ -99,7 +96,6 @@ ul li {
   background-color: whitesmoke;
   color: black;
   font-size: 16px;
-  /* padding: 16px 35px; */
   margin-top: 75%;
   margin-left: 1.6%;
   padding: 5%;
@@ -115,7 +111,7 @@ ul li {
   margin: 2% 2% 2% 20%;
 }
 .Main, main, body {
-  background-color: lightgray;
+  background-color: whitesmoke;
   height: 100%;
 }
 .Projects {
@@ -153,17 +149,18 @@ h3 {
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
   left: 0;
-  background-color:#f18973;
+  background-color:black;
+  color: whitesmoke;
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 20px;
-  opacity: .96;
+  opacity: .85;
 }
 .sidenav a {
   padding: 10px 8px 24px 16px;
   text-decoration: none;
   font-size: 20px;
-  color: black;
   display: block;
+  color: whitesmoke;
 }
 .sidenav a:hover {
   color: whitesmoke;
@@ -176,7 +173,7 @@ h3 {
   margin-top: 20%;
 }
 .git{
-  padding-top: 280%;
+  padding-top: 285%;
 }
 
 /* Style page content */
