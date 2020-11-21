@@ -159,7 +159,7 @@ h3 {
   color: whitesmoke;
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 42px;
-  opacity: .85;
+  opacity: .95;
 }
 .sidenav a {
   padding: 10px 8px 24px 16px;
@@ -182,7 +182,7 @@ h3 {
   padding-bottom: 25%;
 }
 .git{
-  padding-top: 275%;
+  padding-top: 273%;
 }
 
 /* Style page content */
