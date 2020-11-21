@@ -18,6 +18,7 @@ const IndexPage = () => (
           <div class="Title"><u>Full-Stack<br></br>Software Engineer</u></div>
           <img src="https://i.imgur.com/CzU5GJa.jpg?2" width="70%" alt="pic"></img>
         </div>
+      <h3 class="AboutTitle">ABOUT</h3>
       <div class="AboutDetails">
         As a student in General Assembly’s Software Engineering Immersive course for full-stack development, I have embraced my keen attention to detail and goal completion determination to accomplish multiple projects to their fullest extent. I practice effective time allocation and maintain a detail-oriented workflow allowing me the necessary time to anticipate the needs of team members and instructors. I aspire to establish myself as a developer within a reputable and mission-driven company that will actively cultivate the strengths of its creators.
       </div>

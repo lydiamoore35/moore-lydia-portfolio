@@ -115,6 +115,11 @@ ul li {
   background-color: whitesmoke;
   height: 100%;
 }
+.AboutTitle {
+  display: flex;
+  margin-right: 35%;
+  text-decoration: underline overline;
+}
 .Projects {
   margin-left: 13%;
   text-decoration: underline overline;
