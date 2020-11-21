@@ -61,13 +61,14 @@ ul li {
   width: 20%;
   box-shadow: 10px 10px 5px grey;
 }
-.Project_3 {
+.Project_3, .Project_1 {
   font-family: Helvetica,sans-serif;
   position: relative;
   width: 50%;
   margin-left: 30%;
+  margin-bottom: 10%;
 }
-.Project_3 img {
+.Project_3 img, .Project_1 img {
   display: flex;
   height: 500px;
   margin-top: 5%;
@@ -85,14 +86,14 @@ ul li {
   -ms-transform: translate(-50%, -50%);
   text-align: justify;
 }
-.Project_3:hover img {
+.Project_3:hover img, .Project_1:hover img  {
   opacity: .5;
 }
-.Project_3:hover .center {
+.Project_3:hover .center, .Project_1:hover .center  {
   font-family: Helvetica,sans-serif;
   opacity: 1;
 }
-.Project_3_text {
+.Project_3_text, .Project_1_text  {
   background-color: whitesmoke;
   color: black;
   font-size: 16px;

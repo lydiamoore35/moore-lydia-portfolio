@@ -92,7 +92,14 @@ const IndexPage = () => (
     </div>
       <h3 class="Projects">PROJECTS</h3>
         <div></div>
-        <div></div>
+        <div class="Project_1">
+          <img src="https://i.imgur.com/hs6xZvs.png" alt="project_1_pic"/>
+          <div class="center">
+            <div class="Project_1_text">
+              <u>WeatherWize</u><br></br><br></br>...utilizes AJAX to request weather API based on user zip code to then display youth activities based on the tempurature. This application inlcudes HTML, CSS, JavaScript and jQuery to create a responsive design. Created WeatherWize to be fully functional on desktop and mobile devices by manipulating the DOM with Chrome devtools.Implemented a sticky navbar
+            </div>
+          </div>
+        </div>
         <div class="Project_3">
           <img src="https://i.imgur.com/yFYcW1H.png" alt="project_3_pic"/>
           <div class="center">

@@ -1,0 +1,115 @@
+
+body {
+    background-image: url('https://i.pinimg.com/originals/19/7a/5e/197a5efb83dbb3bdc05fe76ad9e77b3d.jpg');
+    font-family: 'Dosis', sans-serif;
+    background-size: 100%;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-repeat: repeat-y;
+    align-content: center;
+}   
+.appName {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    font-size: 30px;
+    background-color: black;
+    opacity: .7;
+    color: white;
+    margin-left: -2%;
+    padding-right: 5%;
+    width: 100%;
+    justify-content: space-between;
+} 
+.appName h1 {
+    margin-left: 6%;
+    margin-top: 20%;
+} 
+.form {
+    display: flex;
+    justify-content: flex-end;
+} 
+#day1 {
+    margin-top: 7%;
+}
+.day1, .day2, .day3, .day4, .day5 {
+    display: none;
+    display: flex;
+    color: white;
+    background-color: black;
+    opacity: .7;
+    font-size: 30px;
+    margin: 3% 30%;
+    justify-content: center;
+    padding: 2%;
+    list-style: none;
+}
+nav {
+    margin-left: -3.5%;
+    overflow: hidden;
+    background-color:black;
+    color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 7px;
+    padding-right: 5%;
+    display: flex;
+    justify-content: space-evenly;
+    z-index: 9999;
+}
+.goToDay {
+    text-decoration: none;
+    color: white;
+}
+.goToDay:hover{
+    background-image: linear-gradient(red,orange,yellow,green,blue,purple);
+    color: black;
+    border: 1px solid white;
+}
+.submit {
+    border-radius: 3px;
+    border-width: 2px;
+    color: white;
+    border-color: white;
+    background-color: black;
+    padding: 15px;
+    font-size: 20px;
+    display: block;
+    margin: 10% 3% 0 5%;  
+}
+.submit:hover {
+    background-image: linear-gradient(red,orange,yellow,green,blue,purple);
+    font-weight: bolder;
+    color:black;
+    cursor: pointer;
+    font-weight: bold;
+}
+.input {
+    block-size: 3%;
+    padding: 10px;
+    margin-top: 17%;
+}
+.hotGames, .coldGames{
+    display: none;
+    color: white;
+    background-color: black;
+    margin-top: 10%;
+}
+ li {
+    margin: 10px;
+    border: white dotted 2px;
+    padding: 20px;
+    list-style: none;
+} 
+li:hover {
+    background-image: linear-gradient(white,pink);
+    color: black;
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    font-weight: bold;
+    padding: .5%;
+}
