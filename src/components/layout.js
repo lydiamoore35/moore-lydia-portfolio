@@ -16,11 +16,11 @@ const Layout = ({children}) => {
     <body>
       <div class="Main">
         <div class="sidenav">
-          <a href="#About">ABOUT</a>
-          <a href="#">SKILLS</a>
-          <a href="#">PROJECTS</a>
-          <a href="#">CONTACT</a>
-          <a href="#">RESUME</a>
+          <a href="#AboutLink">ABOUT</a>
+          <a href="#SkillsLink">SKILLS</a>
+          <a href="#ProjectsLink">PROJECTS</a>
+          <a href="#ContactLink">CONTACT</a>
+          <a href="#ResumeLink">RESUME</a>
           <div id="sidenav_img">
             <a href="https://github.com/lydiamoore35" target="_blank">
               <img class="git" src="https://img.icons8.com/cute-clipart/64/000000/github.png" alt="github"/>

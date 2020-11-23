@@ -68,6 +68,9 @@ ul li {
   margin-left: 30%;
   margin-bottom: 10%;
 }
+.Project_1 {
+  margin-bottom: 15%;
+}
 .Project_3 img, .Project_1 img {
   display: flex;
   height: 500px;
@@ -132,20 +135,22 @@ ul li {
   text-decoration: underline overline;
 }
 .Projects {
-  margin-left: 13%;
   text-decoration: underline overline;
-  margin-bottom: 5%;
+  margin: 2% 5% 5% 17%;
 }
 .TechnicalSkills {
-  margin-left: 7%;
+  margin: 5% 5% 5% 15%;
   text-decoration: underline overline;
-  margin-top: 5%;
 }
 .Resume {
   text-decoration: underline overline;
 }
 .Contact {
   text-decoration: underline overline;
+  margin-left: 15%;
+}
+#ContactInfo {
+  margin-left: 50%;
 }
 h3 {
   font-family: Helvetica,sans-serif;
@@ -192,7 +197,7 @@ h3 {
 }
 .git{
   padding-bottom: 15%;
-  width: 68%;
+  width:67%;
 }
 .linkedIn_img {
   width: 68%;

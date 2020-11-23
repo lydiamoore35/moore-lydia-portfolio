@@ -12,7 +12,7 @@ const IndexPage = () => (
       <link rel="preconnect" href="https://fonts.gstatic.com"></link>
       <link href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,200;1,600&display=swap" rel="stylesheet"></link>
     </head>
-    <div class="About">
+    <div class="About" id="AboutLink">
         <div>
           <div class="Name">Lydia<br></br>Moore</div>
           <div class="Title"><u>Full-Stack<br></br>Software Engineer</u></div>
@@ -22,7 +22,7 @@ const IndexPage = () => (
       <div class="AboutDetails">
       Hello, my name is Lydia and I am a modern software engineer seeking opportunity in the programming world. For the past 5 months I have been completing General Assembly’s Software Engineering Immersive course for full-stack development. My previous experience involving<br></br><br></br>I have embraced my keen attention to detail and goal completion determination to accomplish multiple projects to their fullest extent. I practice effective time allocation and maintain a detail-oriented workflow allowing me the necessary time to anticipate the needs of team members and instructors. I aspire to establish myself as a developer within a reputable and mission-driven company that will actively cultivate the strengths of its creators.
       </div>
-      <div class="Skills">
+      <div class="Skills" id="SkillsLink">
       <h3 class="TechnicalSkills">TECHNICAL SKILLS</h3>
         <ul>
           <li>
@@ -91,7 +91,7 @@ const IndexPage = () => (
         </ul>
       </div>
     </div>
-      <h3 class="Projects">PROJECTS</h3>
+      <h3 class="Projects" id="ProjectsLink">PROJECTS</h3>
         <div></div>
         <div class="Project_1">
           <img src="https://i.imgur.com/hs6xZvs.png" alt="project_1_pic"/>
@@ -109,8 +109,9 @@ const IndexPage = () => (
             </div>
           </div>
         </div>
-        <h3 class="Contact">CONTACT ME</h3>
-        <h3 class="Resume">RESUME</h3>
+        <h3 class="Contact" id="ContactLink">CONTACT ME</h3>
+          <div id="ContactInfo">Lydia Moore<br></br>Lydiamoore35@gmail.com<br></br>720-323-4928<br></br>I look forward to talking code with you!</div>
+        <h3 class="Resume" id="ResumeLink">RESUME</h3>
     
   </Layout>
 )
