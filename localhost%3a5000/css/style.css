@@ -1,0 +1,89 @@
+body {
+    display: flex;
+    font-family: 'Spectral SC', serif;
+    flex-direction: column;
+    background-image: url("https://media2.s-nbcnews.com/j/newscms/2019_30/2942426/190722-cooking-oil-se-242p_e7fad5075516cd90cc1a70a15809c3b9.nbcnews-fp-1024-512.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+footer {
+    text-align: center;
+    color: white;
+    background-color: black;
+    opacity: 70%;
+    align-items: center;
+    margin-top: 2%;
+    padding: 2% 0 0 0; 
+}
+main {
+    color: white;
+    margin-top: 2%;
+    /* height: 300px; */
+}
+h1 {
+    background-color: rgb(156, 33, 11);
+    color: white;
+    padding: 2%;
+    font-family: 'Spectral SC', serif;
+    text-align: center; 
+}
+h2, h3 {
+    font-weight: 900;
+    padding: 2%;
+    font-family: 'Spectral SC', serif;
+    text-align: center;
+}
+.recipeOfDay {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-flow: center;
+    margin-left: 37%;
+}
+.displayRecipes {
+    text-align: center;
+}
+header {
+    text-align: center;
+}
+nav {
+    background-color: black;
+    color: white;
+    padding: 1%;
+    opacity: 70%;
+}
+span {
+    display: flex;
+    display: inline-block;
+    padding: .5% 3% .5% 3%;
+}
+a {
+    color: white;
+}
+.myRecipes, .failedLogin {
+    color: black;
+    font-weight: 900;
+}
+.loginField, .signupField {
+    margin: 1.5%;
+    padding: 3% 3% .5% 3%;
+    opacity: 90%;
+    align-content: center;
+    color: white;
+}
+input[type='reset'], input[type='password'], input[type='color'], input[type='text'], select {
+    background-color:white;
+    border: none;
+    color: black;
+    width: 38%;
+    display: flex;
+    opacity: 65%;
+}
+.button, button,input[type='button'], input[type='submit'] {
+    background-color:white;
+    border: none;
+    color: black;
+}
+/* button:hover, .button:hover, .submit:hover {
+    background-color: rgb(26, 131, 201);
+} */
