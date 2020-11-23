@@ -24,7 +24,7 @@ const IndexPage = () => (
       </div>
       <div class="Skills" id="SkillsLink">
       <h3 class="TechnicalSkills">TECHNICAL SKILLS</h3>
-        <ul>
+        <ul class="SkillsIcons">
           <li>
             <img src="https://img.icons8.com/color/96/000000/ruby-programming-language.png" alt="icon"/>
           </li>
@@ -109,9 +109,13 @@ const IndexPage = () => (
             </div>
           </div>
         </div>
-        <h3 class="Contact" id="ContactLink">CONTACT ME</h3>
-          <div id="ContactInfo">Lydia Moore<br></br>Lydiamoore35@gmail.com<br></br>720-323-4928<br></br>I look forward to talking code with you!</div>
         <h3 class="Resume" id="ResumeLink">RESUME</h3>
+        <h3 class="Contact" id="ContactLink">CONTACT INFO</h3>
+        <ul id="ContactInfo">
+          <li>Lydia Moore</li>
+          <li>Lydiamoore35@gmail.com</li>
+          <li>720-323-4928</li>
+        </ul>
     
   </Layout>
 )
