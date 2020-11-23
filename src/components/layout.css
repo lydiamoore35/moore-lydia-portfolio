@@ -101,7 +101,7 @@ ul li {
   margin-left: 1.6%;
   padding: 5%;
   width: 380px;
-  border-radius: 2px;
+  border-radius: 5px;
   box-shadow: 5px 5px 2.5px black;
 }
 .Project_1_text {
@@ -111,7 +111,7 @@ ul li {
   font-size: 16px;
   padding: 5%;
   width: 380px;
-  border-radius: 2px;
+  border-radius: 5px;
   box-shadow: 5px 5px 2.5px black;
   background-color: #b8a9c9;
 }
@@ -183,17 +183,19 @@ h3 {
   color: whitesmoke;
   text-decoration: underline;
 }
-.sidenav img {
+#sidenav_img {
   display:flex;
   flex-direction: column;
-  width: min-content;
-  width: 25%;
   align-self: center;
-  align-items: flex-end;
-  padding-bottom: 25%;
+  align-items: center;
+  margin-top: 262%;
 }
 .git{
-  padding-top: 273%;
+  padding-bottom: 15%;
+  width: 68%;
+}
+.linkedIn_img {
+  width: 68%;
 }
 
 /* Style page content */

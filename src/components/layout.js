@@ -21,8 +21,14 @@ const Layout = ({children}) => {
           <a href="#">PROJECTS</a>
           <a href="#">CONTACT</a>
           <a href="#">RESUME</a>
-          <img class="git" src="https://img.icons8.com/cute-clipart/64/000000/github.png" alt="github"/>
-          <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="linkedIn"/>
+          <div id="sidenav_img">
+            <a href="https://github.com/lydiamoore35" target="_blank">
+              <img class="git" src="https://img.icons8.com/cute-clipart/64/000000/github.png" alt="github"/>
+            </a>
+            <a href="https://www.linkedin.com/in/lydia-w-moore" target="_blank">
+              <img class="linkedIn_img" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="linkedIn"/>
+            </a>
+          </div>
       </div>
       <main>{children}</main>
       <footer class="Footer">
