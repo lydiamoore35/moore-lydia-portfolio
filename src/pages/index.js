@@ -26,16 +26,19 @@ const IndexPage = () => (
       <h3 class="TechnicalSkills">TECHNICAL SKILLS</h3>
         <ul class="SkillsIcons">
           <li>
-            <img src="https://img.icons8.com/color/96/000000/ruby-programming-language.png" alt="icon"/>
+            <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="icon"/>
           </li>
           <li>
-            <img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="icon"/>
+            <img src="https://p.kindpng.com/picc/s/476-4768341_javascript-logo-number-angularjs-node-javascript-transparent-background.png" alt="icon" height="96px"/>
           </li>
           <li>
             <img src="https://img.icons8.com/color/96/000000/css3.png" alt="icon"/>
           </li>
           <li>
             <img src="https://img.icons8.com/color/96/000000/github--v1.png" alt="icon"/>
+          </li>
+          <li>
+            <img src="https://img.icons8.com/color/96/000000/ruby-programming-language.png" alt="icon"/>
           </li>
           <li>
             <img src="https://img.icons8.com/color/96/000000/heroku.png" alt="icon"/>
@@ -47,10 +50,7 @@ const IndexPage = () => (
             <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="icon"/>
           </li>
           <li>
-            <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="icon"/>
-          </li>
-          <li>
-            <img src="https://p.kindpng.com/picc/s/476-4768341_javascript-logo-number-angularjs-node-javascript-transparent-background.png" alt="icon" height="96px"/>
+            <img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="icon"/>
           </li>
           <li>
             <img src="https://img.icons8.com/color/96/000000/sql.png" alt="icon"/>
@@ -92,6 +92,7 @@ const IndexPage = () => (
       </div>
     </div>
       <h3 class="Projects" id="ProjectsLink">PROJECTS</h3>
+      <h4 class="uiHelp">* Hover over project for more info *</h4>
         <div></div>
         <div class="Project_3">
           <img src="https://i.imgur.com/yFYcW1H.png" alt="project_3_pic"/>
@@ -99,17 +100,17 @@ const IndexPage = () => (
             <a href="https://github.com/lydiamoore35/Project_3_frontend" target="_blank"><button class="GitButton">GitHub</button></a>
             <button class="SiteButton">Visit Site</button>
             <div class="Project_3_text">
-              <u><b>Ubuntu</b></u><br></br>I am because we are<br></br><br></br>Ubuntu is a full CRUD application that uses MERN stack technoglogy. I used the models, views, controllers setup with sign up and log in functionality. I deployed Ubuntu front end and back end through Netlify and Heroku, respectively.
+              <u><b>Ubuntu</b></u><br></br>I am because we are<br></br><br></br>Ubuntu is a full CRUD application that uses MERN stack technoglogy. The backend is organized using MVC file structure and has sign up and log in functionality. I deployed Ubuntu front end and back end through Netlify and Heroku, respectively.
             </div>
           </div>
         </div>
         <div class="Project_2">
-          <img src="https://i.imgur.com/87ab3al.png?2" alt="project_2_pic"/>
-          <div class="center_project_2">
+          <img src="https://i.imgur.com/bUdBwlY.png" alt="project_2_pic"/>
+          <div class="center">
             <button class="GitButton">GitHub</button>
             <button class="SiteButton">Visit Site</button>
             <div class="Project_2_text">
-              <u><b>Create Your Cookbook</b></u><br></br><br></br>I built WeatherWize using HTML, CSS, JavaScript and JQuery, hosted on github pages. I used AJAX to request a weather API based on zip code. Once the user inputs their zipcode, the browser renders youth activities based on the tempurature. WeatherWize has a responsive design and complex user interface.
+              <u><b>Create Your Cookbook</b></u><br></br><br></br>I built this application using HTML, CSS, Node.js, Mongoose, Express, and EJS. This app adheres to MVC file structure, 7 RESTful routes, and full CRUD. The sign up and log in functionality includes an encrypted password and authorization flow. I deployed this site through Heroku.
             </div>
           </div>
         </div>
@@ -123,7 +124,6 @@ const IndexPage = () => (
             </div>
           </div>
         </div>
-        <h3 class="Resume" id="ResumeLink">RESUME</h3>
         <h3 class="Contact" id="ContactLink">CONTACT INFO</h3>
         <ul id="ContactInfo">
           <li>Lydia Moore</li>

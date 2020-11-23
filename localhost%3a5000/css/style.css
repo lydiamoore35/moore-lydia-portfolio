@@ -4,7 +4,10 @@ body {
     flex-direction: column;
     background-image: url("https://media2.s-nbcnews.com/j/newscms/2019_30/2942426/190722-cooking-oil-se-242p_e7fad5075516cd90cc1a70a15809c3b9.nbcnews-fp-1024-512.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    /* height: 100%; */
+    /* background-size: cover; */
+    /* height: inherit; */
+    background-image: linear-gradient(45deg, black, transparent);
 }
 footer {
     text-align: center;
@@ -19,6 +22,8 @@ main {
     color: white;
     margin-top: 2%;
     /* height: 300px; */
+    display: flow-root;
+    height: 944px;
 }
 h1 {
     background-color: rgb(156, 33, 11);

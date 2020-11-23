@@ -19,9 +19,11 @@ const Layout = ({children}) => {
           <a href="#AboutLink">ABOUT</a>
           <a href="#SkillsLink">SKILLS</a>
           <a href="#ProjectsLink">PROJECTS</a>
-          <a href="#ResumeLink">RESUME</a>
           <a href="#ContactLink">CONTACT</a>
           <div id="sidenav_img">
+            <a href="https://docs.google.com/document/d/1EkiJoTGrcUgb_A5kf55LZ2YT6qKJ5aC9B9XBohvweAU/edit?usp=sharing" target="_blank">
+              <img class="resumeIcon"src="https://img.icons8.com/fluent/96/000000/resume.png"/>
+            </a>
             <a href="https://github.com/lydiamoore35" target="_blank">
               <img class="git" src="https://img.icons8.com/cute-clipart/64/000000/github.png" alt="github"/>
             </a>
