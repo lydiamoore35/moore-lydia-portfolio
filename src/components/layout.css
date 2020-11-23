@@ -71,7 +71,7 @@
   margin-bottom: 10%;
 }
 .Project_1 {
-  margin-bottom: 15%;
+  margin-bottom: 5%;
 }
 /* .Project_2 img {
   font-family: Helvetica,sans-serif;
@@ -204,15 +204,21 @@
 }
 .Contact {
   text-decoration: underline overline;
-  margin-left: 16%;
+  margin-left: 15%;
 }
-#ContactInfo {
-  margin: 10% 10% 15% 27%;
+.ContactInfo {
+  display: flex;
+  margin: 5% 10% 15% 27%;
   line-height: 3.5;
   flex-direction: column;
   list-style-type: square;
   font-size: 20px;
   font-family: Helvetica,sans-serif
+}
+.ContactInfo img {
+  width:100%;
+}
+.ContactInfo div {
 }
 h3 {
   font-family: Helvetica,sans-serif;

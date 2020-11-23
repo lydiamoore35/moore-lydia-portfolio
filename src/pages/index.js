@@ -124,12 +124,11 @@ const IndexPage = () => (
             </div>
           </div>
         </div>
-        <h3 class="Contact" id="ContactLink">CONTACT INFO</h3>
-        <ul id="ContactInfo">
-          <li>Lydia Moore</li>
-          <li>Lydiamoore35@gmail.com</li>
-          <li>720-323-4928</li>
-        </ul>
+        <h3 class="Contact">CONTACT INFO</h3>
+          <div class="ContactInfo">
+            <img src="https://i.imgur.com/CzU5GJa.jpg?3"/>
+            <div>Lydia Moore  ||  Lydiamoore35@gmail.com  ||  720-323-4928</div>
+          </div>
     
   </Layout>
 )
