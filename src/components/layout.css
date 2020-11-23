@@ -93,16 +93,27 @@ ul li {
   font-family: Helvetica,sans-serif;
   opacity: 1;
 }
-.Project_3_text, .Project_1_text  {
-  background-color: whitesmoke;
+.Project_3_text {
+  background-color:  #82B784;
   color: black;
   font-size: 16px;
-  margin-top: 75%;
+  margin-top: 58%;
   margin-left: 1.6%;
   padding: 5%;
   width: 380px;
   border-radius: 2px;
   box-shadow: 5px 5px 2.5px black;
+}
+.Project_1_text {
+  margin-top: 50%;
+  background-color: whitesmoke;
+  color: black;
+  font-size: 16px;
+  padding: 5%;
+  width: 380px;
+  border-radius: 2px;
+  box-shadow: 5px 5px 2.5px black;
+  background-color: #b8a9c9;
 }
 .Footer {
   font-family: Helvetica,sans-serif;
