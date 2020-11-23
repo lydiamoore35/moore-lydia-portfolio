@@ -9,6 +9,7 @@
 .About img {
   display: flex;
   margin: 5% 0% 5% 15%;
+  border-radius: 2px;
 }
 .AboutDetails {
   display: flex;
@@ -21,7 +22,7 @@
   background-color: whitesmoke;
   border-radius: 2px;
   text-align: justify;
-  box-shadow: 10px 10px 5px grey;
+  box-shadow: 8px 8px 3px grey;
   line-height: 1.5;
 }
 .Name {
@@ -60,6 +61,7 @@ ul li {
   margin: 3%;
   width: 20%;
   box-shadow: 10px 10px 5px grey;
+  border-radius: 2px;
 }
 .Project_3, .Project_1 {
   font-family: Helvetica,sans-serif;
@@ -78,6 +80,7 @@ ul li {
   padding-right: 20%;
   transition: .5s ease;
   backface-visibility: hidden;
+  border-radius: 2px;
 }
 .center {
   transition: .5s ease;
@@ -104,7 +107,7 @@ ul li {
   margin-left: 1.6%;
   padding: 5%;
   width: 380px;
-  border-radius: 5px;
+  border-radius: 3px;
   box-shadow: 5px 5px 2.5px black;
 }
 .Project_1_text {
@@ -114,7 +117,7 @@ ul li {
   font-size: 16px;
   padding: 5%;
   width: 380px;
-  border-radius: 5px;
+  border-radius: 3px;
   box-shadow: 5px 5px 2.5px black;
   background-color: #b8a9c9;
 }
@@ -193,7 +196,7 @@ h3 {
   flex-direction: column;
   align-self: center;
   align-items: center;
-  margin-top: 262%;
+  margin-top: 257%;
 }
 .git{
   padding-bottom: 15%;

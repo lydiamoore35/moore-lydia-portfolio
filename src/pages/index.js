@@ -105,7 +105,7 @@ const IndexPage = () => (
           <img src="https://i.imgur.com/yFYcW1H.png" alt="project_3_pic"/>
           <div class="center">
             <div class="Project_3_text">
-              <u>Ubuntu</u><br></br>I am because we are<br></br><br></br>Ubuntu is an application that allows users to sign up and log in to thier account to create, view, update, and/or delete community projects in thier area.<br></br>Ubuntu includes front end and back end application through Heroku and Netlify.
+              <u><b>Ubuntu</b></u><br></br>I am because we are<br></br><br></br>Ubuntu is an application that allows users to sign up and log in to thier account to create, view, update, and/or delete community projects in thier area.<br></br>Ubuntu includes front end and back end application through Heroku and Netlify.
             </div>
           </div>
         </div>
