@@ -19,8 +19,8 @@ const Layout = ({children}) => {
           <a href="#AboutLink">ABOUT</a>
           <a href="#SkillsLink">SKILLS</a>
           <a href="#ProjectsLink">PROJECTS</a>
-          <a href="#ContactLink">CONTACT</a>
           <a href="#ResumeLink">RESUME</a>
+          <a href="#ContactLink">CONTACT</a>
           <div id="sidenav_img">
             <a href="https://github.com/lydiamoore35" target="_blank">
               <img class="git" src="https://img.icons8.com/cute-clipart/64/000000/github.png" alt="github"/>
