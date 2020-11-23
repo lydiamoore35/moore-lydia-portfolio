@@ -96,7 +96,7 @@ const IndexPage = () => (
         <div class="Project_3">
           <img src="https://i.imgur.com/yFYcW1H.png" alt="project_3_pic"/>
           <div class="center">
-            <button class="GitButton">GitHub</button>
+            <a href="https://github.com/lydiamoore35/Project_3_frontend" target="_blank"><button class="GitButton">GitHub</button></a>
             <button class="SiteButton">Visit Site</button>
             <div class="Project_3_text">
               <u><b>Ubuntu</b></u><br></br>I am because we are<br></br><br></br>Ubuntu is a full CRUD application that uses MERN stack technoglogy. I used the models, views, controllers setup with sign up and log in functionality. I deployed Ubuntu front end and back end through Netlify and Heroku, respectively.
@@ -116,8 +116,8 @@ const IndexPage = () => (
         <div class="Project_1">
           <img src="https://i.imgur.com/hs6xZvs.png" alt="project_1_pic"/>
           <div class="center">
-            <button class="GitButton">GitHub</button>
-            <button class="SiteButton">Visit Site</button>
+            <a href="https://github.com/lydiamoore35/Project-1" target="_blank"><button class="GitButton">GitHub</button></a>
+            <a href="https://lydiamoore35.github.io/Project-1/" target="_blank"><button class="SiteButton">Visit Site</button></a>
             <div class="Project_1_text">
               <u><b>WeatherWize</b></u><br></br><br></br>I built WeatherWize using HTML, CSS, JavaScript and JQuery, hosted on github pages. I used AJAX to request a weather API based on zip code. Once the user inputs their zipcode, the browser renders youth activities based on the tempurature. WeatherWize has a responsive design and complex user interface.
             </div>
