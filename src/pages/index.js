@@ -20,7 +20,7 @@ const IndexPage = () => (
         </div>
       <h3 class="AboutTitle">ABOUT</h3>
       <div class="AboutDetails">
-      My name is Lydia and I am a full-stack software engineer based in Colorado. Building new applications or enhancing preexisting code is how I express my keen attention to detail and relish in the satisfaction of completing tasks to their fullest extent. My previous experience involving behavioral assessments and transitioning data to mainstream technology has given me a unique perspective on interacting within the coding world.<br></br><br></br>I practice effective time allocation and maintain a detail-oriented workflow allowing me the necessary time to anticipate the needs of clients and team members. I aspire to establish myself as a developer within a reputable and mission-driven company that will actively cultivate the strengths of its creators.
+      My name is Lydia and I am a full-stack software engineer based in Colorado. Building new applications or enhancing preexisting code is how I express my keen attention to detail and relish in the satisfaction of completing tasks to their fullest extent. My previous experience involving behavioral assessments and transitioning data to mainstream technology has given me a unique perspective on interacting within the coding world.<br></br><br></br>I practice effective time allocation and maintain a detail-oriented workflow allowing me the necessary time to anticipate the needs of clients and team members. As a growing developer, it's important that I establish myself within a reputable and mission-driven company that will actively cultivate the strengths of its creators.
       </div>
       <div class="Skills" id="SkillsLink">
       <h3 class="TechnicalSkills">TECHNICAL SKILLS</h3>
@@ -110,7 +110,7 @@ const IndexPage = () => (
             <button class="GitButton">GitHub</button>
             <button class="SiteButton">Visit Site</button>
             <div class="Project_2_text">
-              <u><b>Create Your Cookbook</b></u><br></br><br></br>I built this application using HTML, CSS, Node.js, Mongoose, Express, and EJS. This app adheres to MVC file structure, 7 RESTful routes, and full CRUD. The sign up and log in functionality includes an encrypted password and authorization flow. I deployed this site through Heroku.
+              <u><b>Create Your Cookbook</b></u><br></br><br></br>I built this application using HTML, CSS, Node.js, Mongoose, Express, and EJS. This app adheres to MVC file structure, 7 RESTful routes and full CRUD. The sign up and log in functionality includes an encrypted password and authorization flow. I deployed this site through Heroku.
             </div>
           </div>
         </div>
@@ -126,8 +126,7 @@ const IndexPage = () => (
         </div>
         <h3 class="Contact">CONTACT INFO</h3>
           <div class="ContactInfo">
-            <img src="https://i.imgur.com/CzU5GJa.jpg?3"/>
-            <div>Lydia Moore  ||  Lydiamoore35@gmail.com  ||  720-323-4928</div>
+            <div>Lydia Moore  | Lydiamoore35@gmail.com  | 720-323-4928</div>
           </div>
     
   </Layout>
