@@ -67,7 +67,7 @@
   font-family: Helvetica,sans-serif;
   position: relative;
   width: 50%;
-  margin-left: 30.5%;
+  margin-left: 31.5%;
   margin-bottom: 10%;
 }
 .Project_1 {
@@ -212,6 +212,7 @@
   color: whitesmoke;
   font-weight: 700;
   padding-left: 25px;
+  opacity: .95;
 }
 h3 {
   font-family: Helvetica,sans-serif;
