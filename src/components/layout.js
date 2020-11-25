@@ -33,8 +33,7 @@ const Layout = ({children}) => {
           </div>
       </div>
       <main>{children}</main>
-      <footer className="Footer">
-        Copyright © 2020 created by Lydia Moore. All rights reserved.
+      <footer className="Footer">Website initiated with GatsbyJS.<br></br>Copyright © 2020 created by Lydia Moore. All rights reserved.
       </footer>
       </div>
     </body>
