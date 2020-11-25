@@ -107,8 +107,8 @@ const IndexPage = () => (
         <div class="Project_2">
           <img src="https://i.imgur.com/bUdBwlY.png" alt="project_2_pic"/>
           <div class="center">
-            <button class="GitButton">GitHub</button>
-            <button class="SiteButton">Visit Site</button>
+          <a href="https://github.com/lydiamoore35/Project-2-frontend" target="_blank"><button class="GitButton">GitHub</button></a>
+          <a href="https://lm-project-2.herokuapp.com" target="_blank"><button class="SiteButton">Visit Site</button></a>
             <div class="Project_2_text">
               <u><b>Create Your Cookbook</b></u><br></br><br></br>I built this application using HTML, CSS, Node.js, Mongoose, Express, and EJS. This app adheres to MVC file structure, 7 RESTful routes and full CRUD. The sign up and log in functionality includes an encrypted password and authorization flow. I deployed this site through Heroku.
             </div>
