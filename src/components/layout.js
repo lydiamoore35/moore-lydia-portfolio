@@ -14,26 +14,26 @@ import "./layout.css"
 const Layout = ({children}) => {
   return (
     <body>
-      <div class="Main">
-        <div class="sidenav">
+      <div className="Main">
+        <div className="sidenav">
           <a href="#AboutLink">ABOUT</a>
           <a href="#SkillsLink">SKILLS</a>
           <a href="#ProjectsLink">PROJECTS</a>
           <a href="#ContactLink">CONTACT</a>
           <div id="sidenav_img">
             <a href="https://docs.google.com/document/d/1EkiJoTGrcUgb_A5kf55LZ2YT6qKJ5aC9B9XBohvweAU/edit?usp=sharing" target="_blank">
-              <img class="resumeIcon"src="https://img.icons8.com/fluent/96/000000/resume.png"/>
+              <img className="resumeIcon"src="https://img.icons8.com/fluent/96/000000/resume.png"/>
             </a>
             <a href="https://github.com/lydiamoore35" target="_blank">
-              <img class="git" src="https://img.icons8.com/cute-clipart/64/000000/github.png" alt="github"/>
+              <img className="git" src="https://img.icons8.com/cute-clipart/64/000000/github.png" alt="github"/>
             </a>
             <a href="https://www.linkedin.com/in/lydia-w-moore" target="_blank">
-              <img class="linkedIn_img" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="linkedIn"/>
+              <img className="linkedIn_img" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="linkedIn"/>
             </a>
           </div>
       </div>
       <main>{children}</main>
-      <footer class="Footer">
+      <footer className="Footer">
         Copyright © 2020 created by Lydia Moore. All rights reserved.
       </footer>
       </div>

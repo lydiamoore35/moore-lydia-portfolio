@@ -29,13 +29,13 @@
   font-size: 40px;
   font-weight: 900;
   position: absolute;
-  top: 5.5%;
+  top: 6.5%;
   left: 32%;
   color: white;
 }
 .Title {
   position: absolute;
-  top: 15%;
+  top: 16.5%;
   left: 22%;
   padding: 2% 0 5% 10%;
   font-size: 20px;
@@ -198,21 +198,17 @@
 }
 .ContactInfo {
   display: flex;
-  margin: 5% 10% 10% 27%;
-  line-height: 3.5;
   flex-direction: column;
-  list-style-type: square;
-  font-size: 20px;
-  font-family: Helvetica,sans-serif
-}
-.ContactInfo div {
-  background:black;
-  padding: 2%;
-  border-radius: 2px;
+  background: black;
   color: whitesmoke;
-  font-weight: 700;
+  padding: 3%;
   padding-left: 25px;
+  border-radius: 2px;
+  margin: 5% 10% 10% 27%;
+  font-size: 20px;
+  font-weight: 700;
   opacity: .95;
+  font-family: Helvetica,sans-serif
 }
 h3 {
   font-family: Helvetica,sans-serif;

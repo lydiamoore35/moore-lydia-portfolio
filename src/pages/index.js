@@ -16,7 +16,7 @@ const IndexPage = () => (
         <div>
           <div class="Name">Lydia<br></br>Moore</div>
           <div class="Title"><u>Full-Stack<br></br>Software Engineer</u></div>
-          <img src="https://i.imgur.com/CzU5GJa.jpg?2" width="70%" alt="pic"></img>
+          <img src="https://i.imgur.com/jDnCN5y.jpg?1" width="70%" alt="pic"></img>
         </div>
       <h3 class="AboutTitle">ABOUT</h3>
       <div class="AboutDetails">
