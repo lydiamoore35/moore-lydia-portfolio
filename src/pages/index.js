@@ -12,13 +12,12 @@ const IndexPage = () => (
       <link rel="preconnect" href="https://fonts.gstatic.com"></link>
       <link href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,200;1,600&display=swap" rel="stylesheet"></link>
       <meta name="viewport" content="width=device-width, initial-scale=1"/>
-
     </head>
     <div class="About" id="AboutLink">
         <div>
           <div class="Name">Lydia<br></br>Moore</div>
           <div class="Title"><u>Full-Stack<br></br>Software Engineer</u></div>
-          <img src="https://i.imgur.com/jDnCN5y.jpg?2" width="70%" alt="pic"></img>
+          <img src="https://i.imgur.com/qPZQzCd.jpg?1" width="70%" alt="pic"></img>
         </div>
       <h3 class="AboutTitle">ABOUT</h3>
       <div class="AboutDetails">
@@ -112,7 +111,7 @@ const IndexPage = () => (
           <a href="https://github.com/lydiamoore35/Project-2-frontend" target="_blank"><button class="GitButton">GitHub</button></a>
           <a href="https://lm-project-2.herokuapp.com" target="_blank"><button class="SiteButton">Visit Site</button></a>
             <div class="Project_2_text">
-              <u><b>Create Your Cookbook</b></u><br></br><br></br>I built this application using HTML, CSS, Node.js, Mongoose, Express, and EJS. This app adheres to MVC file structure, 7 RESTful routes and full CRUD. The sign up and log in functionality includes an encrypted password and authorization flow. I deployed this site through Heroku.
+              <u><b>Create your Cookbook</b></u><br></br><br></br>I built this application using HTML, CSS, Node.js, Mongoose, Express, and EJS. This app adheres to MVC file structure, 7 RESTful routes and full CRUD. The sign up and log in functionality includes an encrypted password and authorization flow. I deployed this site through Heroku.
             </div>
           </div>
         </div>
