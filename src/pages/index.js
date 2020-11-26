@@ -124,13 +124,13 @@ const IndexPage = () => (
             </div>
           </div>
         </div>
-        <div class="Project_1">
-          <img src="https://i.imgur.com/hs6xZvs.png" alt="project_1_pic"/>
+        <div class="Project_4">
+          <img src="https://i.imgur.com/MPN5d6j.jpg?1" alt="project_4_pic"/>
           <div class="center">
             <a href="https://github.com/lydiamoore35/Project-1" target="_blank"><button class="GitButton">GitHub</button></a>
             <a href="https://lydiamoore35.github.io/Project-1/" target="_blank"><button class="SiteButton">Visit Site</button></a>
-            <div class="Project_1_text">
-              <u><b>WeatherWize</b></u><br></br><br></br>I built WeatherWize using HTML, CSS, JavaScript and JQuery, hosted on github pages. I used AJAX to request a weather API based on zip code. Once the user inputs their zipcode, the browser renders youth activities based on the tempurature. WeatherWize has a responsive design and complex user interface.
+            <div class="Project_4_text">
+              <u><b>Ruby on Rails with React</b></u><br></br><br></br>COMING SOON!
             </div>
           </div>
         </div>
