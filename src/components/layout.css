@@ -67,7 +67,7 @@
   font-family: Helvetica,sans-serif;
   position: relative;
   width: 50%;
-  margin-left: 31.5%;
+  margin-left: 31.25%;
   margin-bottom: 10%;
 }
 .Project_1 {
@@ -192,7 +192,7 @@
   align-items: center;
   text-align: center;
   line-height: 1.5;
-  margin: 2% 2% 2% 20%;
+  margin: 2% 2% 2% 19%;
 }
 .Main, main, body {
   background-color: whitesmoke;
