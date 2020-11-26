@@ -44,16 +44,19 @@ const IndexPage = () => (
             <img src="https://img.icons8.com/color/96/000000/heroku.png" alt="icon"/>
           </li>
           <li>
+            <img src="https://pbs.twimg.com/profile_images/1021778918842531840/FBVP_uDf.jpg" alt="netlify" height="96"/>
+          </li>
+          <li>
             <img src="https://img.icons8.com/color/96/000000/visual-studio.png" alt="icon"/>
           </li>
           <li>
             <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="icon"/>
           </li>
           <li>
-            <img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="icon"/>
+            <img src="https://img.icons8.com/color/96/000000/sql.png" alt="icon"/>
           </li>
           <li>
-            <img src="https://img.icons8.com/color/96/000000/sql.png" alt="icon"/>
+            <img src="https://miro.medium.com/max/502/1*a8vazziKqAGfX1FGObH95Q.png" alt="icon" height="96"/>
           </li>
           <li>
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwYXjvK9xFgNCPeHeRlJcXQrOWOdtiAkEYzg&usqp=CAU" alt="express" height="96px" width="131"/>
@@ -77,10 +80,7 @@ const IndexPage = () => (
             <img src="https://cdn.auth0.com/blog/build-a-secure-express-api-using-postman-and-auth0/postman-logo.png" alt ="postman" height="96"/>
           </li>
           <li>
-            <img src="https://miro.medium.com/max/502/1*a8vazziKqAGfX1FGObH95Q.png" alt="icon" height="96"/>
-          </li>
-          <li>
-            <img src="https://pbs.twimg.com/profile_images/1021778918842531840/FBVP_uDf.jpg" alt="Trello" height="96"/>
+            <img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="icon"/>
           </li>
           <li>
             <img src="https://pbs.twimg.com/profile_images/687314343537569792/Hz7m5vRM_400x400.png" alt="milligram" height="96"/>

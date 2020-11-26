@@ -267,6 +267,11 @@ h3 {
   margin-left: 8%;
   padding-bottom: 4%;
 }
+.tooltip {
+  content: "Resume";
+  top: -5px;
+  left: 105%;
+}
 
 /* Style page content */
 .main {
