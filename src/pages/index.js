@@ -94,7 +94,7 @@ const IndexPage = () => (
       </div>
     </div>
       <h3 class="Projects" id="ProjectsLink">PROJECTS</h3>
-      <h4 class="uiHelp">* Hover over project for more info *</h4>
+      <h5 class="uiHelp">Hover over project for more info</h5>
         <div></div>
         <div class="Project_3">
           <img src="https://i.imgur.com/yFYcW1H.png" alt="project_3_pic"/>
@@ -107,7 +107,7 @@ const IndexPage = () => (
           </div>
         </div>
         <div class="Project_2">
-          <img src="https://i.imgur.com/bUdBwlY.png" alt="project_2_pic"/>
+          <img src="https://i.imgur.com/bUdBwlY.png?1" alt="project_2_pic"/>
           <div class="center">
           <a href="https://github.com/lydiamoore35/Project-2-frontend" target="_blank"><button class="GitButton">GitHub</button></a>
           <a href="https://lm-project-2.herokuapp.com" target="_blank"><button class="SiteButton">Visit Site</button></a>
@@ -136,9 +136,11 @@ const IndexPage = () => (
             </div>
           </div>
         </div>
-        <h3 class="Contact">CONTACT INFO</h3>
+        <h3 class="Contact" id="ContactLink">CONTACT INFO</h3>
           <div class="ContactInfo">
-            <div>Lydia Moore  | Lydiamoore35@gmail.com  | 720-323-4928</div>
+            <div>Lydia Moore</div>
+            <div>Lydiamoore35@gmail.com</div>
+            <div>720-323-4928</div>
           </div>
     
   </Layout>

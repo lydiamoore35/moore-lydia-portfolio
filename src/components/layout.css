@@ -14,7 +14,7 @@
 .AboutDetails {
   display: flex;
   flex-direction: column;
-  margin: 2% 3.5% 2% 20%;
+  margin: 2% 5% 2% 21%;
   color: black;
   font-family: Helvetica,sans-serif;
   text-align: center;
@@ -60,7 +60,7 @@
   flex-wrap: wrap;
   margin: 3%;
   width: 20%;
-  box-shadow: 10px 10px 5px grey;
+  box-shadow: 8px 8px 3px grey;
   border-radius: 2px;
 }
 .Project_4, .Project_3, .Project_2, .Project_1 {
@@ -204,32 +204,33 @@
 }
 .Projects {
   text-decoration: underline overline;
-  margin: 2% 5% 0% 20%;
+  margin: 2% 5% -2% 20%;
 }
 .uiHelp {
-  margin: 0% 5% 5% 43%;
+  margin: 0% 0% 10% 46.5%;
   font-family: Helvetica,sans-serif;
+  color: gray;
 }
 .TechnicalSkills {
   margin: 5% 5% 3% 16%;
   text-decoration: underline overline;
 }
-.Contact {
+.Contact{
   text-decoration: underline overline;
   margin-left: 15%;
 }
 .ContactInfo {
   display: flex;
   flex-direction: column;
-  background: black;
-  color: whitesmoke;
-  padding: 3%;
+  background: white;
+  color: black;
+  padding: 2%;
   padding-left: 25px;
   border-radius: 2px;
   margin: 5% 10% 10% 27%;
   font-size: 20px;
   font-weight: 700;
-  opacity: .95;
+  line-height: 1.5;
   font-family: Helvetica,sans-serif
 }
 h3 {
@@ -248,7 +249,7 @@ h3 {
   height: 100%;
   width: 160px;
   position: fixed;
-  z-index: 1; /* Stay on top */
+  z-index: 1;
   top: 0; 
   left: 0;
   background-color:black;
@@ -277,6 +278,7 @@ h3 {
 }
 .git{
   padding-bottom: 14%;
+  padding-top: 2%;
   width:67%;
 }
 .linkedIn_img {
@@ -307,7 +309,7 @@ h3 {
 
 
 
-/* Additional css from Gatsby */
+/* Gatsby css */
 /* html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
