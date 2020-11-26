@@ -14,6 +14,9 @@ import "./layout.css"
 const Layout = ({children}) => {
   return (
     <body>
+      <head>
+      <meta name="viewport" content="width=device-width, initial-scale=1"/>
+      </head>
       <div className="Main">
         <div className="sidenav">
           <a href="#AboutLink">ABOUT</a>
