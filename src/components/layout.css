@@ -81,7 +81,6 @@
   margin-top: 10%;
   margin-bottom: 5%;
 }
-
 .Project_4 img, .Project_3 img, .Project_2 img, .Project_1 img {
   display: flex;
   height: 500px;
@@ -293,15 +292,14 @@ h3 {
   top: -5px;
   left: 105%;
 }
-
-/* Style page content */
 .main {
   font-family: Helvetica,sans-serif;
-  margin-left: 160px; /* Same as the width of the sidebar */
+  margin-left: 160px;
   padding: 0px 10px;
 }
-
-/* Smaller screens */
+@-ms-viewport{
+  width: device-width;
+}
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
@@ -310,7 +308,6 @@ h3 {
 
 
 /* Additional css from Gatsby */
-
 /* html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
