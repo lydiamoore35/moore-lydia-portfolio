@@ -1,3 +1,7 @@
+.All {
+  display: flex;
+}
+
 /* About section */
 
 .About {
@@ -241,21 +245,25 @@ h3 {
 
 /* Sidebar menu */
 
-.sidenav {
+.sideNav {
   font-family: Helvetica,sans-serif;
-  display: flex;
-  flex-direction: column;
   height: 100%;
   width: 160px;
-  position: fixed;
-  z-index: 1;
-  top: 0; 
-  left: 0;
   background-color:black;
   color: whitesmoke;
-  overflow-x: hidden;
-  padding-top: 42px;
   opacity: .95;
+  flex-shrink: 0;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  /* -webkit-align-items: center;
+  -ms-flex-align: center; */
+  /* display: -webkit-flex;
+  display: -ms-flexbox; */
+}
+.sidenav li {
+  display: flex;
+
 }
 .sidenav a {
   padding: 10px 8px 24px 16px;
@@ -293,13 +301,21 @@ h3 {
   top: -5px;
   left: 105%;
 }
-.main {
+.Main, main {
   display: flex;
-  justify-content: center;
   flex-direction: column;
+  justify-content: center;
+  height: 100%;
   font-family: Helvetica,sans-serif;
-  margin-left: 160px;
-  padding: 0px 10px;
+  /* margin-left: 160px;
+  padding: 0px 10px; */
+}
+body {
+  margin: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
 }
 @-ms-viewport{
   width: device-width;
