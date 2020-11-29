@@ -32,7 +32,7 @@ const Layout = ({children}) => {
             <a href="#ContactLink">CONTACT</a>
           </li>
         </ul>
-        <div id="sidenav_img">
+        <div id="sideNav_Img">
           <a href="https://docs.google.com/document/d/1EkiJoTGrcUgb_A5kf55LZ2YT6qKJ5aC9B9XBohvweAU/edit?usp=sharing" target="_blank">
             <img className="resumeIcon"src="https://img.icons8.com/fluent/96/000000/resume.png"/>
           </a>

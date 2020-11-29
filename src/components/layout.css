@@ -261,22 +261,24 @@ h3 {
   /* display: -webkit-flex;
   display: -ms-flexbox; */
 }
-.sidenav li {
+.sideNav li {
   display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
 
 }
-.sidenav a {
+.sideNav a {
   padding: 10px 8px 24px 16px;
   text-decoration: none;
   font-size: 20px;
   display: block;
   color: whitesmoke;
 }
-.sidenav a:hover {
+.sideNav a:hover {
   color: whitesmoke;
   text-decoration: underline;
 }
-#sidenav_img {
+#sideNav_Img {
   display:flex;
   flex-direction: column;
   align-self: center;
