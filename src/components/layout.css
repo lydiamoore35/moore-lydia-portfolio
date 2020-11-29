@@ -47,7 +47,7 @@
 
 /* Body  */
 
-.Skills, ul {
+.Skills ul {
   list-style: none;
   display: flex;
   flex-direction: row;
