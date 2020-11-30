@@ -53,16 +53,16 @@
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  margin-left: 6.2%;
-  justify-content: space-around;
+  margin-left: 11.2%;
+  justify-content: center;
 }
 .SkillsIcons li {
   display: flex;
   justify-content: center;
   flex-direction: row;
   flex-wrap: wrap;
-  margin: 10%;
-  padding: 3%;
+  margin: 7%;
+  padding: 2%;
   box-shadow: 8px 8px 3px grey;
   background-color: whitesmoke;
   border-radius: 2px;
@@ -82,7 +82,7 @@
   width: 500px;
 }
 .Project_4 {
-  margin-top: 10%;
+  margin-top: 5%;
   margin-bottom: 5%;
 }
 .Project_4 img, .Project_3 img, .Project_2 img, .Project_1 img {
@@ -209,7 +209,7 @@
 }
 .Projects {
   text-decoration: underline overline;
-  margin: 2% 5% -2% 20%;
+  margin: 0% 5% -2% 20%;
 }
 .uiHelp {
   margin: 0% 0% 10% 46.5%;
@@ -233,7 +233,7 @@
   padding: 2%;
   padding-left: 25px;
   border-radius: 2px;
-  margin: 3% 17% 10% 31%;
+  margin: 3% 17% 7% 31%;
   font-size: 20px;
   font-weight: 700;
   line-height: 1.5;
