@@ -99,8 +99,8 @@ const IndexPage = () => (
         <div class="Project_3">
           <img src="https://i.imgur.com/yFYcW1H.png" alt="project_3_pic"/>
           <div class="center">
-            <a href="https://github.com/lydiamoore35/Project_3_frontend" target="_blank"><button class="GitButton">GitHub</button></a>
-            <a href="https://ubuntu-project-3.netlify.app" target="_blank"><button class="SiteButton">Visit Site</button></a>
+            <a href="https://github.com/lydiamoore35/Project_3_frontend" target="_blank" rel="noreferrer"><button class="GitButton">GitHub</button></a>
+            <a href="https://ubuntu-project-3.netlify.app" target="_blank" rel="noreferrer"><button class="SiteButton">Visit Site</button></a>
             <div class="Project_3_text">
               <u><b>Ubuntu</b></u><br></br>I am because we are<br></br><br></br>Ubuntu is a full CRUD application that uses MERN stack technoglogy. The backend is organized using MVC file structure and has sign up and log in functionality. I deployed Ubuntu front end and back end through Netlify and Heroku, respectively.
             </div>
@@ -109,8 +109,8 @@ const IndexPage = () => (
         <div class="Project_2">
           <img src="https://i.imgur.com/bUdBwlY.png?1" alt="project_2_pic"/>
           <div class="center">
-          <a href="https://github.com/lydiamoore35/Project-2-frontend" target="_blank"><button class="GitButton">GitHub</button></a>
-          <a href="https://lm-project-2.herokuapp.com" target="_blank"><button class="SiteButton">Visit Site</button></a>
+          <a href="https://github.com/lydiamoore35/Project-2-frontend" target="_blank" rel="noreferrer"><button class="GitButton">GitHub</button></a>
+          <a href="https://lm-project-2.herokuapp.com" target="_blank" rel="noreferrer"><button class="SiteButton">Visit Site</button></a>
             <div class="Project_2_text">
               <u><b>Create your Cookbook</b></u><br></br><br></br>I built this application using HTML, CSS, Node.js, Mongoose, Express, and EJS. This app adheres to MVC file structure, 7 RESTful routes and full CRUD. The sign up and log in functionality includes an encrypted password and authorization flow. I deployed this site through Heroku.
             </div>
@@ -119,8 +119,8 @@ const IndexPage = () => (
         <div class="Project_1">
           <img src="https://i.imgur.com/hs6xZvs.png" alt="project_1_pic"/>
           <div class="center">
-            <a href="https://github.com/lydiamoore35/Project-1" target="_blank"><button class="GitButton">GitHub</button></a>
-            <a href="https://lydiamoore35.github.io/Project-1/" target="_blank"><button class="SiteButton">Visit Site</button></a>
+            <a href="https://github.com/lydiamoore35/Project-1" target="_blank" rel="noreferrer"><button class="GitButton">GitHub</button></a>
+            <a href="https://lydiamoore35.github.io/Project-1/" target="_blank" rel="noreferrer"><button class="SiteButton">Visit Site</button></a>
             <div class="Project_1_text">
               <u><b>WeatherWize</b></u><br></br><br></br>I built WeatherWize using HTML, CSS, JavaScript and JQuery, hosted on github pages. I used AJAX to request a weather API based on zip code. Once the user inputs their zipcode, the browser renders youth activities based on the tempurature. WeatherWize has a responsive design and complex user interface.
             </div>
@@ -129,8 +129,8 @@ const IndexPage = () => (
         <div class="Project_4">
           <img src="https://i.imgur.com/MPN5d6j.jpg?1" alt="project_4_pic"/>
           <div class="center">
-            <a href="" target="_blank"><button class="GitButton">GitHub</button></a>
-            <a href="" target="_blank"><button class="SiteButton">Visit Site</button></a>
+            <a href="" target="_blank" rel="noreferrer"><button class="GitButton">GitHub</button></a>
+            <a href="" target="_blank" rel="noreferrer"><button class="SiteButton">Visit Site</button></a>
             <div class="Project_4_text">
               <u><b>Ruby on Rails with React</b></u><br></br><br></br>COMING SOON!
             </div>
