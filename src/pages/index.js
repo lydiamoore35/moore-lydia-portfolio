@@ -18,7 +18,7 @@ const IndexPage = () => (
         <div>
           <div class="Name">Lydia<br></br>Moore</div>
           <div class="Title"><u>Full-Stack<br></br>Software Engineer</u></div>
-          <img src="https://i.imgur.com/qPZQzCd.jpg?1" width="70%" alt="pic"></img>
+          <img src="https://i.imgur.com/qPZQzCd.jpg?1" width="60%" alt="pic"></img>
         </div>
       <h3 class="AboutTitle">ABOUT</h3>
       <div class="AboutDetails">
@@ -64,31 +64,31 @@ const IndexPage = () => (
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwYXjvK9xFgNCPeHeRlJcXQrOWOdtiAkEYzg&usqp=CAU" alt="express" alt="alternative text" title="Express" height="96px" width="131"/>
           </li>
           <li>
-            <img src="https://img.icons8.com/ios-filled/100/000000/jquery.png" alt="icon" height="96"/>
+            <img src="https://img.icons8.com/ios-filled/100/000000/jquery.png" alt="jQuery" alt="alternative text" title="jQuery" height="96"/>
           </li>
           <li>
-            <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="icon"/>
+            <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="Mongoose & mongoDB" alt="alternative text" title="Mongoose & mongoDB"/>
           </li>
           <li>
-            <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="react" height="96"/>
+            <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="react" alt="alternative text" title="React" height="96"/>
           </li>
           <li>
-            <img src="https://www.sketchappsources.com/resources/source-image/sketch-icon-41.png" atl="icon" height="96"/>
+            <img src="https://www.sketchappsources.com/resources/source-image/sketch-icon-41.png" atl="Sketch" alt="alternative text" title="Sketch" height="96"/>
           </li>
           <li>
-            <img src="https://i.pinimg.com/280x280_RS/0f/b8/e6/0fb8e676a1cd0eae9b0f7ea862c40f93.jpg" alt="icon" height="96"/>
+            <img src="https://i.pinimg.com/280x280_RS/0f/b8/e6/0fb8e676a1cd0eae9b0f7ea862c40f93.jpg" alt="Trello" alt="alternative text" title="Trello" height="96"/>
           </li>
           <li>
-            <img src="https://cdn.auth0.com/blog/build-a-secure-express-api-using-postman-and-auth0/postman-logo.png" alt ="postman" height="96"/>
+            <img src="https://cdn.auth0.com/blog/build-a-secure-express-api-using-postman-and-auth0/postman-logo.png" alt ="postman" alt="alternative text" title="Postman" height="96"/>
           </li>
           <li>
-            <img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="icon"/>
+            <img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow" alt="alternative text" title="stackoverflow"/>
           </li>
           <li>
-            <img src="https://pbs.twimg.com/profile_images/687314343537569792/Hz7m5vRM_400x400.png" alt="milligram" height="96"/>
+            <img src="https://pbs.twimg.com/profile_images/687314343537569792/Hz7m5vRM_400x400.png" alt="milligram" alt="alternative text" title="Milligram" height="96"/>
           </li>
           <li>
-            <img src="https://img.icons8.com/windows/64/000000/bootstrap.png" alt="bootstrap" height="96"/>
+            <img src="https://img.icons8.com/windows/64/000000/bootstrap.png" alt="bootstrap" alt="alternative text" title="Bootstrap" height="96"/>
           </li>
         </ul>
       </div>
