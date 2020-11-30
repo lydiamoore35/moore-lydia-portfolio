@@ -31,13 +31,13 @@
   font-size: 40px;
   font-weight: 900;
   position: absolute;
-  top: 2.5%;
+  top: 1.5%;
   left: 30.5%;
   color: white;
 }
 .Title {
   position: absolute;
-  top: 12%;
+  top: 11%;
   left: 20.5%;
   padding: 2% 0 5% 10%;
   font-size: 20px;
@@ -58,7 +58,7 @@
 }
 .SkillsIcons li {
   display: flex;
-  justify-content: center;
+  justify-content: flex-end;
   flex-direction: row;
   flex-wrap: wrap;
   margin: 7%;
@@ -71,7 +71,7 @@
   font-family: Helvetica,sans-serif;
   position: relative;
   width: 50%;
-  margin-left: 31.1%;
+  margin-left: 31.5%;
   margin-bottom: 10%;
 }
 .Project_1 {
@@ -127,7 +127,6 @@
   background-color:  #82B784;
   color: black;
   font-size: 16px;
-  margin-left: 1.6%;
   padding: 5%;
   width: 380px;
   border-radius: 3px;
@@ -148,6 +147,7 @@
 }
 .Project_1_text {
   margin-top: 9%;
+  margin-right: 10%;
   background-color: whitesmoke;
   color: black;
   font-size: 16px;
@@ -217,7 +217,7 @@
   color: gray;
 }
 .TechnicalSkills {
-  margin: 5% 5% 3% 16%;
+  margin: 5% 5% 3% 17.5%;
   text-decoration: underline overline;
 }
 .Contact{
@@ -308,11 +308,11 @@ h3 {
   padding-bottom: 4%;
 }
 /* Tooltip container */
-.tooltip {
+/* .tooltip {
   position: relative;
   display: inline-block;
   border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
-}
+/* } */ */
 
 /* Tooltip text */
 .tooltip .tooltiptext {
