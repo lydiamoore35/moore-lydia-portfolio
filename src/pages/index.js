@@ -28,40 +28,40 @@ const IndexPage = () => (
       <h3 class="TechnicalSkills">TECHNICAL SKILLS</h3>
         <ul class="SkillsIcons">
           <li>
-            <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="icon"/>
+            <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="html-5" alt="alternative text" title="HTML5"/>
           </li>
           <li>
-            <img src="https://p.kindpng.com/picc/s/476-4768341_javascript-logo-number-angularjs-node-javascript-transparent-background.png" alt="icon" height="96px"/>
+            <img src="https://p.kindpng.com/picc/s/476-4768341_javascript-logo-number-angularjs-node-javascript-transparent-background.png" alt="JS" alt="alternative text" title="JavaScript" height="96px"/>
           </li>
           <li>
-            <img src="https://img.icons8.com/color/96/000000/css3.png" alt="icon"/>
+            <img src="https://img.icons8.com/color/96/000000/css3.png" alt="css3" alt="alternative text" title="css3"/>
           </li>
           <li>
-            <img src="https://img.icons8.com/color/96/000000/github--v1.png" alt="icon"/>
+            <img src="https://img.icons8.com/color/96/000000/github--v1.png" alt="github" alt="alternative text" title="GitHub"/>
           </li>
           <li>
-            <img src="https://img.icons8.com/color/96/000000/ruby-programming-language.png" alt="icon"/>
+            <img src="https://img.icons8.com/color/96/000000/ruby-programming-language.png" alt="Ruby" alt="alternative text" title="Ruby & Rails"/>
           </li>
           <li>
-            <img src="https://img.icons8.com/color/96/000000/heroku.png" alt="icon"/>
+            <img src="https://img.icons8.com/color/96/000000/heroku.png" alt="heroku" alt="alternative text" title="Heroku"/>
           </li>
           <li>
-            <img src="https://pbs.twimg.com/profile_images/1021778918842531840/FBVP_uDf.jpg" alt="netlify" height="96"/>
+            <img src="https://pbs.twimg.com/profile_images/1021778918842531840/FBVP_uDf.jpg" alt="netlify" alt="alternative text" title="Netlify" height="96"/>
           </li>
           <li>
-            <img src="https://img.icons8.com/color/96/000000/visual-studio.png" alt="icon"/>
+            <img src="https://img.icons8.com/color/96/000000/visual-studio.png" alt="vscode" alt="alternative text" title="Visual Studio Code"/>
           </li>
           <li>
-            <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="icon"/>
+            <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="nodejs" alt="alternative text" title="Node.js"/>
           </li>
           <li>
-            <img src="https://img.icons8.com/color/96/000000/sql.png" alt="icon"/>
+            <img src="https://img.icons8.com/color/96/000000/sql.png" alt="sql" alt="alternative text" title="SQL"/>
           </li>
           <li>
-            <img src="https://miro.medium.com/max/502/1*a8vazziKqAGfX1FGObH95Q.png" alt="icon" height="96"/>
+            <img src="https://miro.medium.com/max/502/1*a8vazziKqAGfX1FGObH95Q.png" alt="postgreSQL" alt="alternative text" title="postgreSQL" height="96"/>
           </li>
           <li>
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwYXjvK9xFgNCPeHeRlJcXQrOWOdtiAkEYzg&usqp=CAU" alt="express" height="96px" width="131"/>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwYXjvK9xFgNCPeHeRlJcXQrOWOdtiAkEYzg&usqp=CAU" alt="express" alt="alternative text" title="Express" height="96px" width="131"/>
           </li>
           <li>
             <img src="https://img.icons8.com/ios-filled/100/000000/jquery.png" alt="icon" height="96"/>

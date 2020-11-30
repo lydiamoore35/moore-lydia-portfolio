@@ -34,13 +34,13 @@ const Layout = ({children}) => {
         </ul>
         <div id="sideNav_Img">
           <a href="https://docs.google.com/document/d/1EkiJoTGrcUgb_A5kf55LZ2YT6qKJ5aC9B9XBohvweAU/edit?usp=sharing" target="_blank">
-            <img className="resumeIcon"src="https://img.icons8.com/fluent/96/000000/resume.png"/>
+            <img classname=".tooltip" className="resumeIcon"src="https://img.icons8.com/fluent/96/000000/resume.png"alt="alternative text" title="Resume"/>
           </a>
           <a href="https://github.com/lydiamoore35" target="_blank">
-            <img className="git" src="https://img.icons8.com/cute-clipart/64/000000/github.png" alt="github"/>
+            <img className="git" src="https://img.icons8.com/cute-clipart/64/000000/github.png" alt="alternative text" title="GitHub"/>
           </a>
           <a href="https://www.linkedin.com/in/lydia-w-moore" target="_blank">
-            <img className="linkedIn_img" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="linkedIn"/>
+            <img className="linkedIn_img" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="alternative text" title="LinkedIn"/>
           </a>
         </div>
       </div>
