@@ -10,9 +10,9 @@ const IndexPage = () => (
     <SEO title="Home" />
     <title>Lydia Moore's Site</title>
     <head>
+      <meta name="viewport" content="width=device-width, initial-scale=1"/>
       <link rel="preconnect" href="https://fonts.gstatic.com"></link>
       <link href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,200;1,600&display=swap" rel="stylesheet"></link>
-      <meta name="viewport" content="width=device-width, initial-scale=1"/>
     </head>
     <div class="About" id="AboutLink">
         <div>
