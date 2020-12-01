@@ -129,8 +129,8 @@ const IndexPage = () => (
         <div class="Project_4">
           <img src="https://i.imgur.com/MPN5d6j.jpg?1" alt="project_4_pic"/>
           <div class="center">
-            <a href="" target="_blank" rel="noreferrer"><button class="GitButton">GitHub</button></a>
-            <a href="" target="_blank" rel="noreferrer"><button class="SiteButton">Visit Site</button></a>
+            <a href="#ProjectsLink" target="_blank" rel="noreferrer"><button class="GitButton">GitHub</button></a>
+            <a href="#ProjectsLink" target="_blank" rel="noreferrer"><button class="SiteButton">Visit Site</button></a>
             <div class="Project_4_text">
               <u><b>Ruby on Rails with React</b></u><br></br><br></br>COMING SOON!
             </div>
