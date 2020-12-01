@@ -327,7 +327,7 @@ body {
 @-ms-viewport{
   width: device-width;
 }
-@media screen and (max-height: 450px) {
+@media screen and (max-height: 350px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
