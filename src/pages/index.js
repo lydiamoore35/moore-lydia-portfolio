@@ -28,67 +28,67 @@ const IndexPage = () => (
       <h3 class="TechnicalSkills">TECHNICAL SKILLS</h3>
         <ul class="SkillsIcons">
           <li>
-            <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="html-5" alt="alternative text" title="HTML5"/>
+            <img src="https://img.icons8.com/color/96/000000/html-5.png" /*alt="html5"*/ alt="alternative text" title="HTML5"/>
           </li>
           <li>
-            <img src="https://p.kindpng.com/picc/s/476-4768341_javascript-logo-number-angularjs-node-javascript-transparent-background.png" alt="JS" alt="alternative text" title="JavaScript" height="96px"/>
+            <img src="https://p.kindpng.com/picc/s/476-4768341_javascript-logo-number-angularjs-node-javascript-transparent-background.png"  alt="alternative text" /*title="JavaScript"*/ height="96px"/>
           </li>
           <li>
-            <img src="https://img.icons8.com/color/96/000000/css3.png" alt="css3" alt="alternative text" title="css3"/>
+            <img src="https://img.icons8.com/color/96/000000/css3.png" /*alt="css3"*/ alt="alternative text" title="css3"/>
           </li>
           <li>
-            <img src="https://img.icons8.com/color/96/000000/github--v1.png" alt="github" alt="alternative text" title="GitHub"/>
+            <img src="https://img.icons8.com/color/96/000000/github--v1.png" /*alt="github"*/ alt="alternative text" title="GitHub"/>
           </li>
           <li>
-            <img src="https://img.icons8.com/color/96/000000/ruby-programming-language.png" alt="Ruby" alt="alternative text" title="Ruby & Rails"/>
+            <img src="https://img.icons8.com/color/96/000000/ruby-programming-language.png" /*alt="Ruby"*/ alt="alternative text" title="Ruby on Rails"/>
           </li>
           <li>
-            <img src="https://img.icons8.com/color/96/000000/heroku.png" alt="heroku" alt="alternative text" title="Heroku"/>
+            <img src="https://img.icons8.com/color/96/000000/heroku.png" /*alt="heroku"*/ alt="alternative text" title="Heroku"/>
           </li>
           <li>
-            <img src="https://pbs.twimg.com/profile_images/1021778918842531840/FBVP_uDf.jpg" alt="netlify" alt="alternative text" title="Netlify" height="96"/>
+            <img src="https://pbs.twimg.com/profile_images/1021778918842531840/FBVP_uDf.jpg" /*alt="netlify"*/ alt="alternative text" title="Netlify" height="96"/>
           </li>
           <li>
-            <img src="https://img.icons8.com/color/96/000000/visual-studio.png" alt="vscode" alt="alternative text" title="Visual Studio Code"/>
+            <img src="https://img.icons8.com/color/96/000000/visual-studio.png" /*alt="vscode"*/ alt="alternative text" title="Visual Studio Code"/>
           </li>
           <li>
-            <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="nodejs" alt="alternative text" title="Node.js"/>
+            <img src="https://img.icons8.com/color/96/000000/nodejs.png" /*alt="nodejs"*/ alt="alternative text" title="Node.js"/>
           </li>
           <li>
-            <img src="https://img.icons8.com/color/96/000000/sql.png" alt="sql" alt="alternative text" title="SQL"/>
+            <img src="https://img.icons8.com/color/96/000000/sql.png" /*alt="sql"*/ alt="alternative text" title="SQL"/>
           </li>
           <li>
-            <img src="https://miro.medium.com/max/502/1*a8vazziKqAGfX1FGObH95Q.png" alt="postgreSQL" alt="alternative text" title="postgreSQL" height="96"/>
+            <img src="https://miro.medium.com/max/502/1*a8vazziKqAGfX1FGObH95Q.png" /*alt="postgreSQL"*/ alt="alternative text" title="postgreSQL" height="96"/>
           </li>
           <li>
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwYXjvK9xFgNCPeHeRlJcXQrOWOdtiAkEYzg&usqp=CAU" alt="express" alt="alternative text" title="Express" height="96px" width="131"/>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwYXjvK9xFgNCPeHeRlJcXQrOWOdtiAkEYzg&usqp=CAU" /*alt="express"*/ alt="alternative text" title="Express" height="96px" width="131"/>
           </li>
           <li>
-            <img src="https://img.icons8.com/ios-filled/100/000000/jquery.png" alt="jQuery" alt="alternative text" title="jQuery" height="96"/>
+            <img src="https://img.icons8.com/ios-filled/100/000000/jquery.png" /*alt="jQuery"*/ alt="alternative text" title="jQuery" height="96"/>
           </li>
           <li>
-            <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="Mongoose & mongoDB" alt="alternative text" title="Mongoose & mongoDB"/>
+            <img src="https://img.icons8.com/color/96/000000/mongodb.png" /*alt="Mongoose & mongoDB"*/ alt="alternative text" title="Mongoose & mongoDB"/>
           </li>
           <li>
-            <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="react" alt="alternative text" title="React" height="96"/>
+            <img src="https://img.icons8.com/color/96/000000/react-native.png" /*alt="react"*/ alt="alternative text" title="React" height="96"/>
           </li>
           <li>
-            <img src="https://www.sketchappsources.com/resources/source-image/sketch-icon-41.png" atl="Sketch" alt="alternative text" title="Sketch" height="96"/>
+            <img src="https://www.sketchappsources.com/resources/source-image/sketch-icon-41.png" /*atl="Sketch"*/ alt="alternative text" title="Sketch" height="96"/>
           </li>
           <li>
-            <img src="https://i.pinimg.com/280x280_RS/0f/b8/e6/0fb8e676a1cd0eae9b0f7ea862c40f93.jpg" alt="Trello" alt="alternative text" title="Trello" height="96"/>
+            <img src="https://i.pinimg.com/280x280_RS/0f/b8/e6/0fb8e676a1cd0eae9b0f7ea862c40f93.jpg" /*alt="Trello"*/ alt="alternative text" title="Trello" height="96"/>
           </li>
           <li>
-            <img src="https://cdn.auth0.com/blog/build-a-secure-express-api-using-postman-and-auth0/postman-logo.png" alt ="postman" alt="alternative text" title="Postman" height="96"/>
+            <img src="https://cdn.auth0.com/blog/build-a-secure-express-api-using-postman-and-auth0/postman-logo.png" /*alt ="postman"*/ alt="alternative text" title="Postman" height="96"/>
           </li>
           <li>
-            <img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow" alt="alternative text" title="stackoverflow"/>
+            <img src="https://img.icons8.com/color/96/000000/stackoverflow.png" /*alt="stackoverflow"*/ alt="alternative text" title="stackoverflow"/>
           </li>
           <li>
-            <img src="https://pbs.twimg.com/profile_images/687314343537569792/Hz7m5vRM_400x400.png" alt="milligram" alt="alternative text" title="Milligram" height="96"/>
+            <img src="https://pbs.twimg.com/profile_images/687314343537569792/Hz7m5vRM_400x400.png" /*alt="milligram"*/ alt="alternative text" title="Milligram" height="96"/>
           </li>
           <li>
-            <img src="https://img.icons8.com/windows/64/000000/bootstrap.png" alt="bootstrap" alt="alternative text" title="Bootstrap" height="96"/>
+            <img src="https://img.icons8.com/windows/64/000000/bootstrap.png" /*alt="bootstrap"*/ alt="alternative text" title="Bootstrap" height="96"/>
           </li>
         </ul>
       </div>
