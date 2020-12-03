@@ -218,9 +218,16 @@
   font-family: Helvetica,sans-serif;
   color: gray;
 }
+.uiHelpSkills {
+  margin: 0% 34% 6% 46.5%;
+  font-family: Helvetica,sans-serif;
+  color: gray;
+  text-align: center;
+}
 .TechnicalSkills {
-  margin: 5% 5% 3% 17.5%;
+  margin: 5% 5% 0% 17.5%;
   text-decoration: underline overline;
+  padding-bottom: 1.5%;
 }
 .Contact{
   text-decoration: underline overline;

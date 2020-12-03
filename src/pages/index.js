@@ -25,6 +25,7 @@ const IndexPage = () => (
       </div>
       <div class="Skills" id="SkillsLink">
       <h3 class="TechnicalSkills">TECHNICAL SKILLS</h3>
+      <h5 class="uiHelpSkills">Hover over skill for name</h5>
         <ul class="SkillsIcons">
           <li>
             <img src="https://img.icons8.com/color/96/000000/html-5.png" /*alt="html5"*/ alt="alternative text" title="HTML5"/>
