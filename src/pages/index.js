@@ -7,7 +7,7 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <title>Lydia Moore's Site</title>
+    <title>Lydia Moore's Portfolio</title>
     <head>
       <meta name="viewport" content="width=device-width, initial-scale=1"/>
       <link rel="preconnect" href="https://fonts.gstatic.com"></link>
