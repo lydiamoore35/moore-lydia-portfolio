@@ -334,9 +334,15 @@ body {
 @-ms-viewport{
   width: device-width;
 }
-@media screen and (max-height: 350px) {
+/* @media screen and (max-height: 350px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
+} */
+@media screen and (max-width: 600px) {
+  .About {align-items: flex-end;}
+  .About {width: 650px;}
+  .sideNav {width: 125px;}
+  .sideNav ul {padding-left: 15%;}
 }
 
 
