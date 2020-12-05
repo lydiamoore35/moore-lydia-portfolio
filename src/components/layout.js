@@ -40,7 +40,7 @@ const Layout = ({children}) => {
             <img className="git" src="https://img.icons8.com/cute-clipart/64/000000/github.png" alt="alternative text" title="GitHub"/>
           </a>
           <a href="https://www.linkedin.com/in/lydia-w-moore" target="_blank" rel="noreferrer">
-            <img className="linkedIn_Img" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="alternative text" title="LinkedIn"/>
+            <img className="linkedIn_Img" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="alternative text" title="Linkedin"/>
           </a>
         </div>
       </div>
