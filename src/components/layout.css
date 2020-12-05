@@ -343,8 +343,8 @@ body {
   .sideNav ul {padding-left: 0%; margin-bottom: 30%; margin-top:29%;}
   #sideNav_Img {display:flex; flex-direction: row; margin-top: -56%; margin-left: 3%;}
   .sideNav a {padding: 0%;}
-  .Title {font-size: 13px; position: absolute; top: 11%; left:-4.5%;}
-  .Name {position: absolute; top: 2%; left:5%; font-size: 28px;}
+  .Title {font-size: 14px; position: fixed; top: 6%; left:-6.5%;}
+  .Name {position: fixed; top: 1%; left:3%; font-size: 28px;}
 }
 
 
