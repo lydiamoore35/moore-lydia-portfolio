@@ -340,11 +340,11 @@ body {
   .About {display: flex; flex-direction: column; flex-wrap: wrap; align-items: flex-end; margin-top: 50%; width: 650px;}
   .About img {margin-left: 0%;}
   .sideNav {flex-direction: row; flex-wrap: wrap; width: 100%; height: 150px;}
-  .sideNav ul {padding-left: 0%; margin-bottom: 30%; margin-top:29%;}
-  #sideNav_Img {display:flex; flex-direction: row; margin-top: -56%; margin-left: 3%;}
+  .sideNav ul {padding-left: 2%; margin-bottom: 30%; margin-top:0%;}
+  #sideNav_Img {display:flex; flex-direction: row; margin-top: -27%; margin-left: -15%;}
   .sideNav a {padding: 0%;}
-  .Title {font-size: 14px; position: fixed; top: 6%; left:-6.5%;}
-  .Name {position: fixed; top: 1%; left:3%; font-size: 28px;}
+  .Title {font-size: 14px; position: fixed; top: 19%; left:-8%;}
+  .Name {position: fixed; top: 14%; left:2%; font-size: 30px;}
 }
 
 
