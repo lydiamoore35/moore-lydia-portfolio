@@ -346,11 +346,11 @@ body {
   .Title {font-size: 14px; position: absolute; top: 63%; left:-4%;}
   .Name {position: absolute; top: 47%; left:5%; font-size: 30px;}
   .Skills {margin: 2% 45% 2% -18%;}
-  .Project_1 img, .Project_2 img, .Project_3 img, .Project_4 img {height: 300px; margin-left: -48%;}
-  .Project_4 img {height: 300; width: 305;}
+  .Project_1 img, .Project_2 img, .Project_3 img, .Project_4 img {height: 275px; margin-left: -48%;}
+  .Project_4 img {height: 265px; width: 275px;}
   .Projects {margin: 0%;}
   .uiHelp {margin: 0% 0% 6% 22.5%;}
   .Contact {margin-left: -5%;}
-  .ContactInfo {margin: 3% 17% 7% 10%}
+  .ContactInfo {margin: 3% 10% 7% 10%}
   .Footer {margin: 2% 20% 20% 19%}
 }
