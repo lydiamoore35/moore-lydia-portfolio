@@ -340,11 +340,12 @@ body {
   .About {display: flex; flex-direction: column; flex-wrap: wrap; align-items: flex-end; margin-top: 50%; width: 650px;}
   .About img {margin-left: 0%;}
   .sideNav {flex-direction: row; flex-wrap: wrap; width: 100%; height: 150px;}
-  .sideNav ul {padding-left: 2%; margin-bottom: 30%; margin-top:0%;}
-  #sideNav_Img {display:flex; flex-direction: column; margin-top: -27%; margin-left: 0%;}
-  .sideNav a {padding: 0%; width: 50%;}
+  .sideNav ul {padding-left: 2%; margin-bottom: 30%; margin-top: .5%;}
+  .sideNav li {padding: 2%;}
+  #sideNav_Img {display:flex; flex-direction: column; margin-top: -27%; margin-left: 10%;}
+  .sideNav a {padding: 0%; width: 50%; font-size: 18px;}
   .resumeIcon {margin-left: 0%;}
-  .Title {font-size: 14px; position: absolute; top: 49%; left:-4%;}
+  .Title {font-size: 14px; position: absolute; top: 53%; left:-4%;}
   .Name {position: absolute; top: 37%; left:5%; font-size: 30px;}
 }
 
