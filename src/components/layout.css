@@ -342,11 +342,11 @@ body {
   .sideNav {flex-direction: row; flex-wrap: wrap; width: 100%; height: 150px;}
   .sideNav ul {padding-left: 2%; margin-bottom: 30%; margin-top: .5%;}
   .sideNav li {padding: 2%;}
-  #sideNav_Img {display:flex; flex-direction: column; margin-top: -27%; margin-left: 10%;}
+  #sideNav_Img {display:flex; flex-direction: column; margin-top: -27%; margin-left: 15%;}
   .sideNav a {padding: 0%; width: 50%; font-size: 18px;}
   .resumeIcon {margin-left: 0%;}
-  .Title {font-size: 14px; position: absolute; top: 53%; left:-4%;}
-  .Name {position: absolute; top: 37%; left:5%; font-size: 30px;}
+  .Title {font-size: 14px; position: absolute; top: 63%; left:-4%;}
+  .Name {position: absolute; top: 47%; left:5%; font-size: 30px;}
 }
 
 
