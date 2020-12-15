@@ -31,7 +31,7 @@ const IndexPage = () => (
             <img src="https://img.icons8.com/color/96/000000/html-5.png" /*alt="html5"*/ alt="alternative text" title="HTML5"/>
           </li>
           <li>
-            <img src="https://p.kindpng.com/picc/s/476-4768341_javascript-logo-number-angularjs-node-javascript-transparent-background.png"  alt="alternative text" title="JavaScript" height="96px"/>
+            <img src="https://img.icons8.com/ios-filled/100/000000/javascript-logo.png" alt="alternative text" title="JavaScript" height="96px"/>
           </li>
           <li>
             <img src="https://img.icons8.com/color/96/000000/css3.png" /*alt="css3"*/ alt="alternative text" title="css3"/>
