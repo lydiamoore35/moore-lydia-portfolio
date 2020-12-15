@@ -1,5 +1,3 @@
-// import { Link } from "gatsby"
-// import Image from "../components/image"
 import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -21,7 +19,7 @@ const IndexPage = () => (
         </div>
       <h3 class="AboutTitle">ABOUT</h3>
       <div class="AboutDetails">
-      Hello, I'm Lydia and I am a full-stack software engineer based in Colorado. Building new applications or enhancing preexisting code is how I express my keen attention to detail and relish in the satisfaction of completing tasks to their fullest extent. My previous experience involving behavioral assessments and transitioning data to mainstream technology has given me a unique perspective on interacting within the coding world.<br></br><br></br>I practice effective time allocation and maintain a detail-oriented workflow allowing me the necessary time to anticipate the needs of clients and team members. As a growing developer, it's important that I establish myself within a reputable and mission-driven company that will actively cultivate the strengths of its creators.
+      Hi, I'm Lydia and I am a full-stack software engineer based in Colorado. Building new applications or enhancing preexisting code is how I express my keen attention to detail and relish in the satisfaction of completing tasks to their fullest extent. My previous experience involving behavioral assessments and transitioning data to mainstream technology has given me a unique perspective on interacting within the coding world.<br></br><br></br>I practice effective time allocation and maintain a detail-oriented workflow allowing me the necessary time to anticipate the needs of clients and team members. As a growing developer, it's important that I establish myself within a reputable and mission-driven company that will actively cultivate the strengths of its creators.
       </div>
       <div class="Skills" id="SkillsLink">
       <h3 class="TechnicalSkills">TECHNICAL SKILLS</h3>
