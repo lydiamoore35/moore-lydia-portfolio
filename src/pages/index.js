@@ -96,10 +96,10 @@ const IndexPage = () => (
       <div class="Project_4">
           <img src="https://i.imgur.com/IHINH9U.png" alt="Adulting"/>
           <div class="center">
-            <a href="https://github.com/lydiamoore35/Project_3_frontend" target="_blank" rel="noreferrer"><button class="GitButton">GitHub</button></a>
-            <a href="https://ubuntu-project-3.netlify.app" target="_blank" rel="noreferrer"><button class="SiteButton">Visit Site</button></a>
+            <a href="https://github.com/lydiamoore35/project_4_frontend" target="_blank" rel="noreferrer"><button class="GitButton">GitHub</button></a>
+            <a href="https://happy-brown-45bf61.netlify.app/" target="_blank" rel="noreferrer"><button class="SiteButton">Visit Site</button></a>
             <div class="Project_4_text">
-              <u><b>Ubuntu</b></u><br></br>I am because we are<br></br><br></br>Ubuntu is a full CRUD application that uses MERN stack technoglogy. The backend is organized using MVC file structure and has sign up and log in functionality. I deployed Ubuntu front end and back end through Netlify and Heroku, respectively.
+              <u><b>Adulting</b></u><br></br><br></br>I built Adulting with a Rails backend that serves a JSON API with full CRUD operations. I used a React frontend that consumes my Rails API. Adulting currently uses one model and is deployed through Netlify and Heroku. Check out this <a href="https://youtu.be/eBjWUKHZejU" target="_blank" rel="noreferrer">video</a> to hear more!
             </div>
           </div>
         </div>
@@ -109,7 +109,7 @@ const IndexPage = () => (
             <a href="https://github.com/lydiamoore35/Project_3_frontend" target="_blank" rel="noreferrer"><button class="GitButton">GitHub</button></a>
             <a href="https://ubuntu-project-3.netlify.app" target="_blank" rel="noreferrer"><button class="SiteButton">Visit Site</button></a>
             <div class="Project_3_text">
-              <u><b>Ubuntu</b></u><br></br>I am because we are<br></br><br></br>Ubuntu is a full CRUD application that uses MERN stack technoglogy. The backend is organized using MVC file structure and has sign up and log in functionality. I deployed Ubuntu front end and back end through Netlify and Heroku, respectively.
+              <u><b>Ubuntu</b></u><br></br>I am because we are<br></br><br></br>Ubuntu is a full CRUD application that uses MERN stack technoglogy. The backend is organized using MVC file structure and has sign up and log in functionality. I deployed Ubuntu frontend and backend through Netlify and Heroku, respectively.
             </div>
           </div>
         </div>
