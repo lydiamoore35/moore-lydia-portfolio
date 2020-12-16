@@ -93,7 +93,16 @@ const IndexPage = () => (
     </div>
       <h3 class="Projects" id="ProjectsLink">PROJECTS</h3>
       <h5 class="uiHelp">Hover over project for more info</h5>
-        <div></div>
+      <div class="Project_4">
+          <img src="https://i.imgur.com/3fOJFYt.png" alt="Adulting"/>
+          <div class="center">
+            <a href="https://github.com/lydiamoore35/Project_3_frontend" target="_blank" rel="noreferrer"><button class="GitButton">GitHub</button></a>
+            <a href="https://ubuntu-project-3.netlify.app" target="_blank" rel="noreferrer"><button class="SiteButton">Visit Site</button></a>
+            <div class="Project_4_text">
+              <u><b>Ubuntu</b></u><br></br>I am because we are<br></br><br></br>Ubuntu is a full CRUD application that uses MERN stack technoglogy. The backend is organized using MVC file structure and has sign up and log in functionality. I deployed Ubuntu front end and back end through Netlify and Heroku, respectively.
+            </div>
+          </div>
+        </div>
         <div class="Project_3">
           <img src="https://i.imgur.com/yFYcW1H.png" alt="project_3_pic"/>
           <div class="center">
