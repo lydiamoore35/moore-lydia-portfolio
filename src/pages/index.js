@@ -94,7 +94,7 @@ const IndexPage = () => (
       <h3 class="Projects" id="ProjectsLink">PROJECTS</h3>
       <h5 class="uiHelp">Hover over project for more info</h5>
       <div class="Project_4">
-          <img src="https://i.imgur.com/3fOJFYt.png" alt="Adulting"/>
+          <img src="https://i.imgur.com/IHINH9U.png" alt="Adulting"/>
           <div class="center">
             <a href="https://github.com/lydiamoore35/Project_3_frontend" target="_blank" rel="noreferrer"><button class="GitButton">GitHub</button></a>
             <a href="https://ubuntu-project-3.netlify.app" target="_blank" rel="noreferrer"><button class="SiteButton">Visit Site</button></a>
@@ -130,16 +130,6 @@ const IndexPage = () => (
             <a href="https://lydiamoore35.github.io/Project-1/" target="_blank" rel="noreferrer"><button class="SiteButton">Visit Site</button></a>
             <div class="Project_1_text">
               <u><b>WeatherWize</b></u><br></br><br></br>I built WeatherWize using HTML, CSS, JavaScript and JQuery, hosted on github pages. I used AJAX to request a weather API based on zip code. Once the user inputs their zipcode, the browser renders youth activities based on the tempurature. WeatherWize has a responsive design and complex user interface.
-            </div>
-          </div>
-        </div>
-        <div class="Project_4">
-          <img src="https://i.imgur.com/MPN5d6j.jpg?1" alt="project_4_pic"/>
-          <div class="center">
-            <a href="#ProjectsLink" target="_blank" rel="noreferrer"><button class="GitButton">GitHub</button></a>
-            <a href="#ProjectsLink" target="_blank" rel="noreferrer"><button class="SiteButton">Visit Site</button></a>
-            <div class="Project_4_text">
-              <u><b>Ruby on Rails with React</b></u><br></br><br></br>COMING SOON!
             </div>
           </div>
         </div>
