@@ -1,9 +1,8 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "Lydia Moore's Portfolio",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Lydia Moore <lydiamoore35@gmail.com>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.11.1",
     "gatsby": "^2.25.3",
