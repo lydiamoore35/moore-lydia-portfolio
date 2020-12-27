@@ -93,6 +93,16 @@ const IndexPage = () => (
     </div>
       <h3 class="Projects" id="ProjectsLink">PROJECTS</h3>
       <h5 class="uiHelp">Hover over project for more info</h5>
+      <div class="Capstone">
+          <img src="https://i.imgur.com/7keXvKL.png?1" alt="Wish Away"/>
+          <div class="center">
+          <a href="https://github.com/lydiamoore35/Capstone-frontend" target="_blank" rel="noreferrer"><button class="GitButton">GitHub</button></a>
+          <a href="https://sharp-pare-7840c7.netlify.app/" target="_blank" rel="noreferrer"><button class="SiteButton">Visit Site</button></a>
+          <div class="Capstone_text">
+            <u><b>Wish Away</b></u><br></br><br></br>I built Wish Away with a Rails backend that serves a JSON API with full CRUD operations and authentication. I used a React frontend with Bulma framework that consumes my Rails API. Wish Away has 2 models, one of which utilizes bcrypt to secure user password. The app is deployed through Netlify and Heroku.
+          </div>
+        </div>
+      </div>
       <div class="Project_4">
           <img src="https://i.imgur.com/IHINH9U.png" alt="Adulting"/>
           <div class="center">
