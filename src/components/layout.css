@@ -355,7 +355,7 @@ body {
   .Title {font-size: 14px; position: absolute; top: 63%; left:-4%;}
   .Name {position: absolute; top: 47%; left:5%; font-size: 30px;}
   .Skills {margin: 2% 45% 2% -18%;}
-  .Project_1 img, .Project_2 img, .Project_3 img, .Project_4 img {height: 275px; margin-left: -52%;}
+  .Capstone img, .Project_1 img, .Project_2 img, .Project_3 img, .Project_4 img {height: 275px; margin-left: -52%;}
   .Project_4 img {height: 265px; width: 275px;}
   .Projects {margin: 0%;}
   .uiHelp {margin: 0% 0% 6% 22.5%;}
