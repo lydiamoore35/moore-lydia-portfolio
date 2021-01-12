@@ -38,7 +38,7 @@ const Layout = ({children}) => {
       </div>
       <div className="Main">
         <main>{children}</main>
-        <footer className="Footer">Website built with GatsbyJS.<br></br>Copyright © 2020 created by Lydia Moore. All rights reserved.
+        <footer className="Footer">Website built with GatsbyJS.<br></br>Copyright © 2020 Lydia Moore. All rights reserved.
         </footer>
       </div>
     </body>
