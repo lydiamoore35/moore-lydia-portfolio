@@ -67,6 +67,14 @@
   background-color: whitesmoke;
   border-radius: 2px;
 }
+.hide {
+  display: none;
+}
+.SkillsIcons img:hover + .hide {
+  display: flex;
+  align-items: center;
+  color: red;
+}
 .Capstone, .Project_4, .Project_3, .Project_2, .Project_1 {
   font-family: Helvetica,sans-serif;
   position: relative;

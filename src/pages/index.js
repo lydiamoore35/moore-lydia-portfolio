@@ -77,16 +77,20 @@ const IndexPage = () => (
             <img src="https://i.pinimg.com/280x280_RS/0f/b8/e6/0fb8e676a1cd0eae9b0f7ea862c40f93.jpg" /*alt="Trello"*/ alt="alternative text" title="Trello" height="96"/>
           </li>
           <li>
-            <img src="https://cdn.auth0.com/blog/build-a-secure-express-api-using-postman-and-auth0/postman-logo.png" /*alt ="postman"*/ alt="alternative text" title="Postman" height="96"/>
+            <img src="https://cdn.auth0.com/blog/build-a-secure-express-api-using-postman-and-auth0/postman-logo.png" /*alt ="postman"*/ height="96"/>
+            <div class="hide">Postman</div>
           </li>
           <li>
-            <img src="https://img.icons8.com/color/96/000000/stackoverflow.png" /*alt="stackoverflow"*/ alt="alternative text" title="stackoverflow"/>
+            <img src="https://img.icons8.com/color/96/000000/stackoverflow.png" /*alt="stackoverflow"*//>
+            <div class="hide">stack<b>overflow</b></div>
           </li>
           <li>
-            <img src="https://pbs.twimg.com/profile_images/687314343537569792/Hz7m5vRM_400x400.png" /*alt="milligram"*/ alt="alternative text" title="Milligram" height="96"/>
+            <img src="https://pbs.twimg.com/profile_images/687314343537569792/Hz7m5vRM_400x400.png" /*alt="milligram"*/ height="96"/>
+            <div class="hide">Milligram</div>
           </li>
           <li>
-            <img src="https://img.icons8.com/windows/64/000000/bootstrap.png" /*alt="bootstrap"*/ alt="alternative text" title="Bootstrap" height="96"/>
+            <img src="https://img.icons8.com/windows/64/000000/bootstrap.png" /*alt="bootstrap"*/ height="96"/>
+            <div class="hide">Bootstrap</div>
           </li>
         </ul>
       </div>
@@ -146,8 +150,8 @@ const IndexPage = () => (
         <h3 class="Contact" id="ContactLink">CONTACT INFO</h3>
           <div class="ContactInfo">
             <div>Lydia Moore</div>
-            <div>Lydiamoore35@gmail.com</div>
             <div>720-323-4928</div>
+            <div>Lydiamoore35@gmail.com</div>
           </div>
     
   </Layout>
